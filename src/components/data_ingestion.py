@@ -28,7 +28,9 @@ class DataIngestion:
             )
 
             logging.info("Got the dataframe from mongodb")
+            logging.info(df.shape)
             logging.info("Exited the get_data_from_mongodb method of data_ingestion class")
+            
 
             return df
         except Exception as e:
@@ -40,7 +42,7 @@ class DataIngestion:
             os.makedirs(
                 self.data_ingestion_config.DATA_INGESTION_ARTIFACTS_DIR,exist_ok=True
             )
-            train_data,test_data=train_test_split(df,test_size=TEST_SIZE)
+            train_data,test_data=train_test_split(df,test_size=TEST_SIZE,train_size=0.8)
             logging.info("Performed train test split on the dataframe")
 
             os.makedirs(
@@ -90,11 +92,11 @@ class DataIngestion:
 
         try:
             df=self.get_data_from_mongodb()
-            df1=df.drop(self.data_ingestion_config.DROP_COLS,axis=1)
-            df1=df1.dropna()
+            #df1=df.drop(self.data_ingestion_config.DROP_COLS,axis=1)
+            df=df.dropna()
             logging.info("Got the data from mongodb")
 
-            self.split_data_as_train_test(df1)
+            self.split_data_as_train_test(df)
 
             logging.info("Exited initiate_data_ingestion method of Data_Ingestion class")
 

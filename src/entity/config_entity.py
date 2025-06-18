@@ -9,10 +9,10 @@ from src.constant import *
 class DataIngestionConfig:
     def __init__(self):
         self.UTILS=MainUtils()
-        self.SCHEMA_CONFIG=self.UTILS.read_yaml(filename=SCHEMA_FILE_PATH)
+        self.SCHEMA_CONFIG=self.UTILS.read_yaml_file(filename=SCHEMA_FILE_PATH)
         self.DB_NAME=DB_NAME
         self.COLLECTION_NAME=COLLECTION_NAME
-        self.DROP_COLS=list(self.SCHEMA_CONFIG["drop_columns"])
+        #self.DROP_COLS=list(self.SCHEMA_CONFIG["drop_columns"])
         self.DATA_INGESTION_ARTIFACTS_DIR:str = os.path.join(
             from_root(),ARTIFACTS_DIR,DATA_INGESTION_ARTIFACTS_DIR
         )
@@ -28,3 +28,21 @@ class DataIngestionConfig:
         self.TEST_DATA_FILE_PATH:str=os.path.join(
             self.DATA_INGESTION_ARTIFACTS_DIR,DATA_INGESTION_TEST_FILE_NAME
         )
+
+
+@dataclass
+class DataValidationConfig:
+        def __init__(self):
+            self.UTILS=MainUtils()
+            self.SCHEMA_CONFIG=self.UTILS.read_yaml_file(filename=SCHEMA_FILE_PATH)
+            self.DATA_INGESTION_ARTIFACTS_DIR:str = os.path.join(
+                from_root(),ARTIFACTS_DIR,DATA_INGESTION_ARTIFACTS_DIR
+            )
+            self.DATA_VALIDATION_ARTIFACTS_DIR:str = os.path.join(
+                from_root(),ARTIFACTS_DIR,DATA_VALIDATION_ARTIFACT_DIR
+            )
+            self.DATA_DRIFT_FILE_PATH:str = os.path.join(
+                self.DATA_VALIDATION_ARTIFACTS_DIR,DATA_DRIFT_FILE_NAME
+            )
+            self.NUMERICAL_FEATURES=self.SCHEMA_CONFIG['numerical_columns']
+            self.CATEGORICAL_FEATURES=self.SCHEMA_CONFIG['categorical_columns']

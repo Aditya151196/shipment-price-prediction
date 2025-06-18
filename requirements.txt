@@ -18,5 +18,5 @@ dill
 xgboost
 catboost
 category-encoders==2.5.1.post0
-evidently
+evidently==0.7.7
 -e .

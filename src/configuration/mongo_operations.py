@@ -75,6 +75,7 @@ class MongoDBOperation:
 
             # Reading the dataframe and dropping the _id column
             df=pd.DataFrame(list(collection.find()))
+            logging.info(df.shape)
             if "_id" in df.columns.to_list():
                 df=df.drop(columns=["_id"],axis=1)
 

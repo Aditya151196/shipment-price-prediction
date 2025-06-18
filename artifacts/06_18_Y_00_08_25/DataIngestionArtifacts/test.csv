@@ -1,0 +1,674 @@
+Customer Id,Artist Name,Artist Reputation,Height,Width,Weight,Material,Price Of Sculpture,Base Shipping Price,International,Express Shipment,Installation Included,Transport,Fragile,Customer Information,Remote Location,Scheduled Date,Delivery Date,Customer Location,Cost
+fffe3700340039003700,Susan Mckenzie,0.49,18.0,9.0,1525.0,Clay,6.61,19.4,No,No,No,Roadways,Yes,Working Class,No,12/04/16,12/02/16,"Weberton, IN 45702",307.25
+fffe3600390030003600,Eleanor Carlson,0.17,14.0,7.0,171.0,Wood,6.48,13.91,Yes,No,Yes,Waterways,No,Wealthy,No,11/06/15,11/06/15,"Lake Courtneyshire, TN 29425",150.76
+fffe3800300034003900,Lois Lind,0.49,28.0,11.0,14427.0,Bronze,48.75,75.66,No,No,Yes,Waterways,No,Working Class,Yes,07/14/18,07/11/18,FPO AE 34128,1237.41
+fffe3600370037003500,Oliver Brown,0.87,5.0,3.0,702.0,Marble,4.55,21.46,No,No,No,Airways,No,Working Class,Yes,12/08/16,12/08/16,"Parkburgh, AZ 41269",341.03
+fffe3800350031003800,Cynthia Jacobs,0.39,29.0,10.0,721443.0,Stone,2163.07,84.61,No,No,No,Waterways,No,Working Class,No,08/02/18,07/29/18,"Port Maryport, WI 81664",5022.84
+fffe3600380038003000,Patricia Jennings,0.6,13.0,8.0,67826.0,Stone,286.54,52.58,Yes,Yes,No,Airways,No,Wealthy,No,01/22/15,01/26/15,DPO AE 24405,1954.77
+fffe3500380036003900,Timothy Rucker,0.28,30.0,10.0,1007887.0,Stone,2528.55,99.26,No,Yes,Yes,Airways,No,Working Class,No,03/22/16,03/26/16,"Jonathanhaven, VA 97192",9718.72
+fffe3900330036003600,Marie Gooding,0.12,15.0,7.0,2051.0,Bronze,3.74,20.05,Yes,Yes,Yes,Airways,No,Wealthy,Yes,07/12/18,07/11/18,"Richardfort, WA 94428",-246.73
+fffe3700320031003800,Kim Cruz,0.55,18.0,6.0,128.0,Wood,3.72,16.37,No,Yes,No,Airways,No,Wealthy,No,03/24/19,03/24/19,FPO AA 01243,232.38
+fffe3600370035003100,Laura Miller,0.07,8.0,5.0,237.0,Clay,4.96,21.18,No,No,No,Roadways,Yes,Working Class,Yes,03/09/15,03/08/15,"Bowmanshire, WA 19241",-154.29
+fffe370035003700,Roy Mason,0.3,6.0,5.0,1643.0,Marble,6.34,12.16,No,No,No,Roadways,No,Working Class,No,01/10/18,01/09/18,"Larrymouth, NY 96474",195.68
+fffe3900310034003000,Evan Hart,0.29,38.0,20.0,8214668.0,Stone,6665.25,34.32,Yes,Yes,No,Airways,No,Wealthy,No,08/26/18,08/26/18,"North Dawn, MS 79002",217756.39
+fffe3100370030003600,Lisa Pendleton,0.55,21.0,16.0,1426.0,Aluminium,3.77,19.09,No,No,Yes,Waterways,No,Working Class,No,06/15/19,06/12/19,"East Stanley, ND 85168",352.37
+fffe3400330032003000,Clifford Johnson,0.01,9.0,5.0,54.0,Wood,3.75,24.44,Yes,No,Yes,Airways,No,Working Class,No,03/25/19,03/29/19,"Larsenborough, IA 21491",133.76
+fffe3500350030003400,Christopher Gau,0.94,32.0,14.0,352.0,Wood,5.68,11.48,No,No,Yes,Waterways,No,Working Class,No,04/06/16,04/06/16,"New Alexishaven, AZ 11763",740.84
+fffe3300340039003900,Pauline Richarson,0.57,17.0,10.0,145.0,Wood,4.68,13.85,No,No,Yes,Roadways,No,Working Class,No,08/04/18,08/04/18,"Lake Gracestad, GA 28665",232.76
+fffe3100390036003300,Stella Holden,0.32,41.0,12.0,7830.0,Clay,16.23,88.99,No,No,No,Roadways,Yes,Working Class,No,02/26/19,02/27/19,"Jacobfort, AR 77969",-772.7
+fffe3500380032003100,Randall Vargas,0.6,25.0,7.0,99108.0,Stone,465.95,31.69,No,No,Yes,Waterways,No,Working Class,Yes,09/16/18,09/16/18,"Burchstad, SC 69374",3048.23
+fffe3700360031003200,Cheryl Marchand,0.59,17.0,9.0,7414.0,Brass,46.69,75.35,No,No,Yes,Roadways,No,Wealthy,No,04/20/16,04/20/16,"East Vickieport, VA 02629",1263.7
+fffe3600370032003300,Timothy Barley,0.4,51.0,8.0,768.0,Wood,4.96,13.94,No,No,Yes,Roadways,No,Working Class,Yes,04/25/18,04/26/18,"Malonemouth, OR 79449",230.67
+fffe3900370037003000,Lori Simpson,0.73,15.0,6.0,947.0,Bronze,6.17,13.19,No,Yes,No,Roadways,No,Wealthy,No,02/25/15,02/25/15,"Brownville, SC 25709",426.76
+fffe3700350039003300,Rita Smith,0.69,30.0,13.0,1011795.0,Marble,2913.96,94.2,No,No,No,Roadways,No,Working Class,No,04/15/19,04/16/19,"Mooreville, NC 01793",8907.7
+fffe3300310033003200,Esther Davis,0.49,47.0,20.0,8325677.0,Stone,12588.46,29.41,No,No,Yes,Roadways,No,Working Class,No,05/27/19,05/27/19,"Lake Danielside, CT 58206",53299.95
+fffe3600370030003000,Tara Slostad,0.21,27.0,13.0,41192.0,Brass,74.91,96.95,No,No,No,Roadways,No,Wealthy,Yes,11/21/16,11/17/16,"West Trevormouth, NM 77685",1155.78
+fffe3900350034003100,Marcus Burrell,0.15,22.0,7.0,687.0,Aluminium,5.38,17.88,Yes,Yes,No,Airways,No,Working Class,Yes,05/03/16,04/30/16,"North Tyler, MA 22860",189.97
+fffe3800310032003400,Mollie Garza,0.51,35.0,11.0,19396.0,Brass,52.16,96.24,No,No,No,Roadways,No,Working Class,No,09/27/16,09/25/16,"Sanderstown, WV 46426",1565.58
+fffe3900360037003800,Marianne Faulkner,0.06,36.0,11.0,1928890.0,Stone,4560.68,40.89,No,No,No,Waterways,No,Working Class,No,01/28/16,02/01/16,FPO AA 52990,5022.48
+fffe3700360039003100,Lesley Crate,0.14,16.0,6.0,101.0,Wood,6.32,17.64,Yes,No,Yes,Airways,No,Working Class,No,05/20/15,05/20/15,"Port Joelside, IL 39220",-154.09
+fffe3600310039003700,Derrick Miles,0.33,14.0,8.0,4022.0,Bronze,8.1,16.17,No,No,Yes,Roadways,No,Wealthy,No,07/11/17,07/07/17,"Wilsonburgh, ME 50439",312.78
+fffe3700340037003700,Rose Moreno,0.82,16.0,8.0,580.0,Aluminium,3.81,21.39,No,No,No,Roadways,No,Working Class,Yes,10/13/15,10/10/15,"Brookston, PA 91501",494.45
+fffe3900330035003900,Sheryl Fruge,0.57,33.0,10.0,916.0,Aluminium,6.43,20.73,Yes,No,Yes,Airways,No,Working Class,No,06/09/16,06/09/16,FPO AA 55832,482.86
+fffe3800310035003900,Robbin Savage,0.4,17.0,6.0,132.0,Aluminium,6.39,12.63,No,No,No,Waterways,No,Working Class,No,09/20/18,09/20/18,"Websterport, MS 67099",165.52
+fffe3800340033003800,Carolyn Smith,0.57,26.0,14.0,916374.0,Marble,1395.66,91.66,No,Yes,No,Roadways,No,Wealthy,No,01/15/17,01/16/17,"East Mollyville, TX 32665",6342.48
+fffe3700300037003300,Michael Fields,0.01,3.0,3.0,32.0,Clay,3.25,12.15,No,Yes,Yes,Roadways,Yes,Wealthy,No,04/11/16,04/11/16,DPO AP 28212,-123.58
+fffe3800380030003700,Sun Moore,0.66,26.0,11.0,957403.0,Stone,959.36,47.53,Yes,Yes,Yes,Airways,No,Working Class,No,02/21/19,02/18/19,"Port Karenmouth, KS 51460",125600.01
+fffe3900300031003700,Debra White,0.11,16.0,6.0,103.0,Wood,5.48,10.08,No,No,No,Airways,No,Wealthy,No,07/18/18,07/18/18,"New Danaland, WI 82956",103.74
+fffe3900370033003300,Christine Hargrove,0.78,18.0,9.0,240539.0,Stone,1275.06,62.45,No,Yes,No,Airways,No,Working Class,Yes,04/26/16,04/28/16,"New Jason, WI 36621",5586.58
+fffe3900360031003200,Lindsey Mulvihill,0.18,27.0,7.0,7711.0,Bronze,19.61,93.99,Yes,Yes,No,Airways,No,Working Class,No,04/04/18,04/04/18,FPO AP 62614,593.04
+fffe3500300033003700,Harry Lopez,0.35,43.0,30.0,142824.0,Bronze,372.29,69.71,No,Yes,No,Airways,No,Working Class,Yes,10/19/18,10/23/18,"Port Jeffrey, ID 37390",2509.99
+fffe350033003900,Robert Winstead,0.68,12.0,6.0,785.0,Clay,6.11,13.57,No,Yes,Yes,Airways,Yes,Wealthy,No,02/19/17,02/16/17,"Richardtown, RI 21206",479.27
+fffe370031003100,Robert Deboard,0.75,18.0,14.0,1996.0,Clay,13.05,17.95,No,Yes,No,Airways,Yes,Wealthy,No,08/15/17,08/19/17,"Hardinshire, CT 26394",-530.25
+fffe3300300036003700,Cheryl Romanik,0.73,24.0,13.0,18538.0,Bronze,21.29,46.09,Yes,Yes,Yes,Airways,No,Working Class,No,10/30/18,10/28/18,"Kristinville, UT 61565",-1732.64
+fffe3200360038003400,Myrna Slatton,0.72,26.0,15.0,920256.0,Marble,2768.89,41.56,No,Yes,No,Roadways,No,Wealthy,No,05/03/19,05/01/19,"North Samuelmouth, MD 53926",16282.86
+fffe3900300039003100,Gilbert Drabant,0.52,45.0,28.0,9144579.0,Marble,25727.45,88.79,Yes,No,Yes,Airways,Yes,Working Class,No,12/03/16,12/06/16,"North Meredithhaven, VT 51625",104451.23
+fffe3900350038003500,Dustin Fulker,0.77,43.0,11.0,5855.0,Clay,25.59,28.86,No,No,No,Roadways,Yes,Wealthy,No,06/09/18,06/09/18,"Morrisshire, MN 25873",1119.05
+fffe3700320032003400,Julia Coleman,0.57,15.0,7.0,26777.0,Marble,114.11,27.87,Yes,Yes,Yes,Airways,No,Wealthy,No,07/19/19,07/17/19,"Lake Jason, AR 06012",1012.61
+fffe3900390034003900,Susan Wolfe,0.89,9.0,5.0,2167.0,Marble,9.78,19.9,Yes,Yes,Yes,Airways,No,Working Class,No,04/09/19,04/07/19,"Deniseborough, OR 69125",2894.42
+fffe3700310032003400,Valentin Williams,0.77,14.0,7.0,700.0,Clay,4.7,15.52,No,No,No,Waterways,Yes,Working Class,Yes,02/04/19,02/06/19,"Hillstad, MT 83116",-315.2
+fffe3900390039003300,Patrick Sonderegger,0.02,29.0,12.0,1515140.0,Stone,3134.78,42.92,No,Yes,No,Roadways,No,Wealthy,Yes,05/24/16,05/21/16,DPO AP 22879,10161.22
+fffe3700330039003600,George Hutcheson,0.11,5.0,4.0,27.0,Wood,3.88,23.38,Yes,Yes,No,Airways,No,Working Class,No,02/04/16,02/03/16,APO AE 84183,150.88
+fffe3900320037003000,Shawn Banks,0.08,14.0,6.0,10270.0,Marble,28.17,96.74,No,Yes,No,Airways,No,Wealthy,No,12/29/17,12/29/17,DPO AP 91637,539.87
+fffe3900340036003300,Kevin Gunter,0.36,15.0,8.0,18757.0,Marble,26.85,74.67,No,Yes,No,Roadways,No,Wealthy,No,08/14/16,08/13/16,"Lake Carlton, AR 37950",719.14
+fffe3100310039003600,Kathleen Cotter,1.0,17.0,13.0,7024.0,Bronze,78.37,27.18,No,No,No,Waterways,No,Working Class,Yes,04/06/19,04/09/19,"Victorborough, DC 49218",7786.21
+fffe3900360035003000,Louise Lindstrom,0.59,6.0,5.0,235.0,Bronze,6.99,17.66,Yes,No,No,Airways,No,Working Class,Yes,01/26/17,01/26/17,FPO AP 04729,294.91
+fffe3300310035003100,Courtney Bethune,0.91,32.0,14.0,1520767.0,Marble,7607.26,95.13,No,Yes,No,Airways,No,Wealthy,No,10/21/16,10/18/16,"Lake Felicia, AL 91676",802308.74
+fffe3800350033003600,William Davis,0.71,31.0,12.0,2026667.0,Stone,11148.65,28.94,Yes,No,No,Waterways,No,Working Class,No,03/15/15,03/17/15,DPO AE 49911,18664.92
+fffe3600330036003800,Adam Esquivel,0.54,32.0,11.0,821575.0,Marble,3774.17,97.03,No,No,No,Waterways,No,Working Class,No,02/07/16,02/03/16,"Lake Carlaburgh, DC 46504",11359.58
+fffe3600380038003900,Austin Miller,0.42,10.0,4.0,62.0,Aluminium,4.59,12.18,Yes,Yes,No,Airways,No,Working Class,No,02/17/17,02/17/17,"Gutierrezburgh, AR 73414",155.72
+fffe3700380032003800,Laura Magallon,0.23,10.0,5.0,406.0,Clay,4.17,20.58,No,No,No,Roadways,Yes,Working Class,No,05/05/17,05/07/17,DPO AE 07185,156.03
+fffe3800300037003400,Alexandra Arnold,0.41,44.0,15.0,3764.0,Aluminium,15.18,14.58,Yes,Yes,No,Airways,No,Working Class,No,04/24/15,04/24/15,"Rebeccafort, ID 74135",322.09
+fffe3900310037003900,Lucille Bachrach,0.38,13.0,6.0,1467.0,Bronze,7.87,12.94,Yes,No,No,Airways,No,Wealthy,No,06/13/17,06/17/17,"Hamptonton, ME 48880",218.48
+fffe3200370032003400,Thomas Dye,0.3,38.0,18.0,342.0,Wood,5.11,11.03,No,No,Yes,Roadways,No,Working Class,No,11/09/16,11/13/16,"North John, ND 22408",151.39
+fffe3800310036003100,Juanita Martin,0.13,11.0,7.0,2345.0,Brass,6.4,23.73,No,No,No,Roadways,No,Wealthy,No,08/21/16,08/24/16,"West Jeremytown, ID 46244",188.45
+fffe3300370031003400,Jeanine Woodward,0.45,6.0,5.0,708.0,Brass,5.12,13.1,Yes,Yes,No,Airways,No,Working Class,No,07/24/15,07/28/15,FPO AE 82285,193.79
+fffe3700300033003800,Maria Vaughn,0.59,24.0,11.0,285.0,Wood,5.02,21.16,No,Yes,No,Airways,No,Working Class,No,05/20/17,05/20/17,"New Coryhaven, LA 32624",354.09
+fffe3900320030003100,Ruben Hughes,0.09,20.0,7.0,564.0,Aluminium,4.2,18.25,Yes,No,No,Airways,No,Wealthy,No,01/22/16,01/21/16,"Port Stevestad, MO 36332",161.69
+fffe3900310034003400,Daniel Moon,0.39,9.0,5.0,70.0,Aluminium,4.67,14.38,No,No,No,Roadways,No,Wealthy,No,11/27/18,11/25/18,"Victorfort, TX 25307",167.63
+fffe3700390035003500,Albert Davis,0.01,29.0,7.0,1004.0,Aluminium,6.05,17.5,No,Yes,No,Roadways,No,Working Class,No,06/20/16,06/19/16,"South Kelly, MA 65222",-130.28
+fffe3700310032003800,James Hiatt,0.4,14.0,8.0,860.0,Clay,3.3,24.57,No,Yes,No,Roadways,Yes,Wealthy,No,02/08/15,02/09/15,"Adamhaven, KY 73806",272.41
+fffe3600370036003100,Barry Allmon,0.28,11.0,6.0,1057.0,Brass,6.56,19.68,No,Yes,Yes,Airways,No,Wealthy,No,03/12/16,03/15/16,"Lake Joseborough, NV 41298",233.7
+fffe3900380038003300,Shirley Troutman,0.15,24.0,10.0,509845.0,Stone,1108.52,44.82,Yes,No,No,Airways,No,Working Class,No,04/13/15,04/11/15,APO AA 31868,3259.17
+fffe3400380038003700,Kathy Frey,0.07,35.0,14.0,2946.0,Aluminium,10.52,24.33,No,Yes,No,Roadways,No,Working Class,No,02/12/16,02/13/16,"Mcintoshtown, IA 42129",171.32
+fffe3700340032003500,Karen Zajac,0.66,36.0,7.0,18371.0,Brass,58.36,74.08,Yes,Yes,Yes,Airways,No,Wealthy,Yes,08/21/19,08/24/19,"Lake Paulmouth, OR 54347",2823.62
+fffe3100340035003000,Laura Pollard,0.48,30.0,6.0,377.0,Aluminium,5.35,24.32,No,Yes,Yes,Airways,No,Working Class,No,12/15/16,12/17/16,"West Katherine, FL 26697",329.19
+fffe3700320035003700,Patricia Montgomery,0.21,40.0,33.0,369382.0,Brass,515.79,77.55,Yes,No,No,Roadways,No,Working Class,No,11/20/18,11/20/18,"Steelefurt, MA 87959",3404.05
+fffe3800310038003900,Matilda Lowry,0.3,48.0,14.0,79966.0,Brass,51.39,60.25,No,No,No,Roadways,No,Working Class,No,11/19/17,11/17/17,"Lammouth, DE 89029",915.23
+fffe3600390030003200,Dennis Carter,0.24,12.0,6.0,2938.0,Brass,5.38,11.37,Yes,Yes,Yes,Airways,No,Wealthy,No,02/05/16,02/09/16,"New Calebville, KS 83071",245.96
+fffe3900300034003100,David Goldman,0.05,30.0,7.0,255757.0,Marble,758.46,81.98,No,No,No,Roadways,No,Working Class,Yes,01/14/16,01/12/16,"Lake Jennifer, AZ 09489",1672.75
+fffe3100380031003400,Charles Monty,0.17,16.0,7.0,798.0,Clay,4.04,11.34,No,No,No,Waterways,Yes,Working Class,Yes,10/23/18,10/25/18,APO AA 07266,122.23
+fffe3100320030003400,James White,0.62,35.0,9.0,4435.0,Clay,11.89,15.11,No,No,Yes,Airways,Yes,Working Class,No,02/09/17,02/09/17,"East Nicholasstad, UT 19761",458.77
+fffe3500360037003400,Norma Lawson,0.48,8.0,4.0,5164.0,Stone,22.36,99.71,No,No,Yes,Airways,No,Wealthy,No,02/25/17,02/26/17,"Port James, CA 87355",854.89
+fffe3400330033003200,Dora Ingrum,0.34,32.0,11.0,4866.0,Clay,6.44,18.4,No,No,No,Roadways,Yes,Working Class,No,05/21/16,05/18/16,"Sherrymouth, SC 92700",277.63
+fffe3800300038003500,Bradley Provost,0.23,11.0,7.0,309.0,Aluminium,4.46,15.39,Yes,No,No,Roadways,No,Working Class,No,03/27/15,03/29/15,"Aaronview, NJ 17113",151.92
+fffe3800320030003800,Jordan Lee,0.78,27.0,9.0,1042.0,Aluminium,6.55,16.08,No,Yes,No,Roadways,No,Working Class,No,03/24/19,03/24/19,"Isaacmouth, DC 41776",578.47
+fffe3900320033003900,Ilene Dopler,0.92,22.0,10.0,337175.0,Marble,2797.21,56.87,Yes,No,No,Waterways,No,Working Class,No,10/06/16,10/10/16,"New Raymondmouth, GA 03402",8074.06
+fffe3700320039003400,Denver Brunkhorst,0.2,21.0,12.0,27227.0,Brass,19.98,71.68,No,No,No,Waterways,No,Working Class,No,11/10/18,11/12/18,"West Ravenland, TN 75041",-427.8
+fffe3800350032003700,Margaret Hensley,0.14,61.0,44.0,61924.0,Clay,102.17,44.45,No,No,No,Roadways,Yes,Working Class,Yes,11/10/18,11/06/18,"Harrishaven, GA 55033",882.03
+fffe3800370034003600,Peter Thompson,0.24,7.0,4.0,3816.0,Stone,11.32,19.28,No,Yes,No,Airways,No,Working Class,No,03/29/19,03/27/19,"Lake Robertside, DE 35762",260.38
+fffe3400310032003000,Ruby Mcclain,0.73,37.0,9.0,1001690.0,Stone,1647.4,80.93,No,Yes,No,Airways,No,Working Class,No,06/12/19,06/08/19,"East Annettetown, MD 18814",13204.9
+fffe3800390034003100,Joseph Perng,0.42,5.0,4.0,97.0,Clay,5.01,24.0,No,Yes,Yes,Airways,Yes,Wealthy,No,07/24/19,07/22/19,"West Michelle, ND 93279",253.21
+fffe3900330032003600,Bradley Paddock,0.87,55.0,11.0,884.0,Wood,4.72,21.98,No,No,No,Roadways,No,Working Class,No,06/03/15,06/03/15,DPO AA 11614,1022.26
+fffe3300370030003900,Jerry Kelly,0.44,24.0,6.0,72837.0,Marble,110.92,33.0,No,No,No,Roadways,No,Working Class,Yes,08/13/18,08/10/18,"South Mitchellland, SC 18695",749.91
+fffe3900350032003300,Monica Sabatino,0.69,32.0,7.0,169582.0,Marble,668.14,56.57,No,No,Yes,Roadways,No,Working Class,Yes,03/23/16,03/23/16,"Jeremiahville, VA 50381",12545.45
+fffe3600350036003700,Dawn Coles,0.49,6.0,4.0,78.0,Clay,3.95,11.44,No,No,No,Roadways,Yes,Working Class,Yes,07/15/17,07/19/17,"Delacruzshire, MA 45349",131.25
+fffe3900370034003800,Darlene Eaton,0.59,25.0,10.0,24399.0,Brass,49.67,56.65,No,Yes,No,Roadways,No,Wealthy,No,05/31/18,06/04/18,"Kathleenport, AR 61567",1260.96
+fffe3900380030003400,Alan Allen,0.79,14.0,7.0,2608.0,Bronze,9.67,12.13,No,No,No,Airways,No,Working Class,Yes,01/06/18,01/03/18,"Dillonstad, NM 66732",1436.96
+fffe3800350034003900,Liliana Banks,0.83,27.0,20.0,1004464.0,Marble,3389.32,89.5,No,No,Yes,Airways,No,Working Class,No,10/03/17,10/04/17,"South Matthew, ME 97026",25844.98
+fffe3900370035003100,Walter Patterson,0.17,28.0,16.0,32588.0,Bronze,77.43,90.5,No,Yes,Yes,Roadways,No,Wealthy,No,07/27/17,07/23/17,"Knighthaven, SD 54931",1049.19
+fffe3800330035003900,Ed Brower,0.49,18.0,8.0,81144.0,Marble,90.08,65.02,Yes,Yes,No,Airways,No,Working Class,Yes,12/15/16,12/19/16,"Wrightbury, KS 67444",3037.7
+fffe3800350037003500,Daniel Risley,0.32,19.0,7.0,51131.0,Marble,71.51,79.88,No,No,No,Roadways,No,Wealthy,Yes,05/22/17,05/21/17,"South Anthonyfort, SD 37406",1097.06
+fffe3700310031003300,Diane Cousins,0.35,26.0,14.0,5275.0,Clay,6.27,70.73,No,Yes,No,Roadways,Yes,Working Class,No,10/07/17,10/07/17,"Lisamouth, NM 08604",664.15
+fffe3700360035003300,Coleen Martin,0.17,36.0,20.0,6011455.0,Stone,17318.82,73.43,Yes,No,Yes,Airways,No,Working Class,No,05/04/19,05/07/19,"Port Megan, ME 44459",37531.2
+fffe3700310039003400,Rafael Spencer,0.18,4.0,4.0,71.0,Clay,4.35,21.01,No,No,No,Roadways,Yes,Working Class,No,10/04/17,10/08/17,"New Pamela, NH 02271",132.69
+fffe3600360032003000,Gary Curran,0.33,11.0,7.0,88.0,Wood,4.0,19.9,No,Yes,No,Airways,No,Working Class,No,05/15/18,05/15/18,"Port Parker, NJ 56119",166.87
+fffe3900340032003400,Maria Hayes,0.82,8.0,5.0,12281.0,Stone,45.66,50.39,No,No,No,Waterways,No,Working Class,No,12/13/17,12/16/17,"South Jenniferview, MO 30052",939.27
+fffe3500390039003900,Pamela Smith,0.63,46.0,20.0,61188.0,Bronze,62.8,69.14,No,Yes,No,Airways,No,Working Class,No,12/24/16,12/20/16,"North Benjaminshire, MS 94269",3285.86
+fffe3900350031003800,Shaun Howe,0.39,18.0,10.0,479.0,Aluminium,4.05,24.97,Yes,No,No,Waterways,No,Working Class,No,05/22/19,05/20/19,"West Lorraineborough, NM 31531",258.24
+fffe3700350039003800,Joshua Kifer,0.71,3.0,2.0,12.0,Clay,5.1,23.47,No,Yes,No,Roadways,Yes,Wealthy,No,05/15/15,05/15/15,"East Fred, NH 42317",257.66
+fffe3900380030003700,Daniel Longbrake,0.87,22.0,10.0,295.0,Wood,3.0,13.51,Yes,No,No,Roadways,No,Working Class,Yes,07/19/19,07/17/19,"South Stevenhaven, KS 07553",516.76
+fffe3900350034003900,Donald Tolliver,0.15,8.0,4.0,58.0,Wood,4.9,13.4,Yes,No,No,Waterways,No,Working Class,No,06/15/19,06/16/19,FPO AA 63162,107.07
+fffe3300320038003000,Toccara Gadson,0.02,23.0,14.0,10705.0,Bronze,18.7,82.23,Yes,No,No,Waterways,No,Working Class,No,10/07/18,10/07/18,"South Philliptown, NC 75237",369.0
+fffe3800320037003900,Deshawn Mckie,0.26,24.0,11.0,306586.0,Stone,152.8,34.57,No,Yes,No,Roadways,No,Wealthy,No,09/27/15,09/24/15,"Elizabethshire, NV 50540",1662.64
+fffe3600370032003600,Leslie Major,0.73,27.0,12.0,390819.0,Marble,858.28,76.06,No,No,Yes,Roadways,No,Working Class,No,07/14/18,07/12/18,"West Erin, MT 34542",47440.33
+fffe3700320039003800,David Henderson,0.96,25.0,8.0,14938.0,Brass,138.5,63.15,No,Yes,Yes,Roadways,No,Working Class,Yes,03/13/18,03/14/18,"North Stacystad, SC 55350",3008.86
+fffe3600350038003800,Louis Merritt,0.33,32.0,9.0,8273.0,Bronze,5.97,45.41,No,No,Yes,Roadways,No,Working Class,No,12/03/18,11/30/18,APO AP 87549,495.56
+fffe3200370039003100,Gregory Smith,0.52,37.0,29.0,24046.0,Clay,70.56,82.43,Yes,Yes,Yes,Airways,Yes,Working Class,No,10/03/18,10/06/18,"Anthonyland, OK 74688",3555.1
+fffe3600390039003800,Louie Womble,0.16,20.0,7.0,26330.0,Marble,45.1,40.64,No,No,No,Roadways,No,Working Class,No,02/25/17,02/23/17,"Port Cole, OK 37473",-388.38
+fffe3500310034003900,Joan Smith,0.22,8.0,5.0,51.0,Wood,5.66,24.99,No,No,Yes,Airways,No,Working Class,No,01/05/19,01/03/19,"Caseymouth, LA 45144",179.38
+fffe3700320035003400,Raymond Martin,0.63,5.0,4.0,26.0,Wood,6.48,13.47,No,Yes,Yes,Roadways,No,Working Class,Yes,09/05/17,09/01/17,"Port Brandon, MA 92129",-269.14
+fffe3800390032003700,John Moisan,0.33,14.0,8.0,160.0,Wood,4.48,22.07,No,No,No,Waterways,No,Working Class,No,01/10/19,01/11/19,"South Johnport, MN 57284",174.95
+fffe3900370031003100,Gloria Neglia,0.99,25.0,7.0,115395.0,Marble,1268.35,43.16,Yes,No,Yes,Waterways,No,Wealthy,No,03/18/18,03/19/18,"East Adrianhaven, IL 04697",4489.25
+fffe3900340031003600,Walter Rose,0.36,3.0,2.0,32.0,Bronze,6.13,11.74,Yes,No,No,Waterways,No,Working Class,No,01/04/18,01/03/18,"Lake Zacharyland, NC 98561",156.78
+fffe3800310039003300,Amanda Milton,0.37,20.0,8.0,8847.0,Brass,40.85,67.13,Yes,No,No,Airways,No,Working Class,No,01/15/17,01/12/17,"South Jenniferfurt, TX 92941",774.86
+fffe3500360036003900,Catherine Phillies,0.63,18.0,8.0,52982.0,Marble,255.76,39.67,Yes,No,Yes,Airways,No,Working Class,Yes,09/09/17,09/10/17,DPO AA 36633,1536.78
+fffe390033003300,Cherie Aquirre,0.75,5.0,4.0,64.0,Bronze,3.2,13.7,Yes,No,No,Airways,No,Wealthy,Yes,06/26/15,06/25/15,"Moorechester, SD 11028",248.88
+fffe3800350038003600,Carrie Henderson,0.52,12.0,8.0,114.0,Wood,6.2,15.71,No,No,Yes,Roadways,No,Working Class,No,08/01/17,08/03/17,"New Lisafort, NJ 88406",228.75
+fffe370034003700,Harold Young,0.9,8.0,4.0,44.0,Wood,6.22,10.9,No,Yes,No,Airways,No,Wealthy,No,02/03/18,02/04/18,"Laraville, SC 12324",427.45
+fffe3700380032003400,Kenneth Cullen,0.33,32.0,16.0,774.0,Wood,3.42,16.64,No,No,No,Waterways,No,Working Class,No,12/29/18,12/28/18,"West Veronica, AZ 86175",172.53
+fffe3100390031003200,Michael Youngblood,0.69,21.0,7.0,5195.0,Brass,40.1,91.67,No,No,No,Roadways,No,Working Class,Yes,11/27/16,11/23/16,"Gonzalezshire, MO 32638",1847.58
+fffe3800390037003800,Kenneth Fox,0.06,18.0,8.0,204.0,Wood,4.94,15.05,No,No,No,Roadways,No,Working Class,No,10/30/18,10/26/18,"West Justin, AK 29833",116.36
+fffe3900380036003700,Charles Santana,0.77,30.0,13.0,30361.0,Brass,99.92,42.49,No,No,No,Roadways,No,Working Class,No,01/24/15,01/21/15,"Mcintoshborough, OR 00606",10639.71
+fffe3700310032003600,Grace Rowles,0.3,3.0,2.0,33.0,Bronze,4.81,19.46,No,Yes,No,Roadways,No,Working Class,Yes,11/13/15,11/10/15,"Port Tracy, TN 50895",181.84
+fffe3800340036003400,Bruno Herod,0.24,18.0,6.0,119.0,Wood,5.59,13.98,Yes,No,No,Waterways,No,Working Class,No,07/17/16,07/13/16,"Port Mary, ND 52701",144.75
+fffe3900360035003600,Mary Sorenson,0.65,42.0,14.0,2885.0,Aluminium,6.32,22.19,No,No,No,Roadways,No,Working Class,No,11/08/17,11/07/17,"West Lisa, FL 08352",579.9
+fffe3600350030003800,James Davis,0.33,25.0,9.0,274.0,Wood,6.45,20.8,Yes,No,No,Waterways,No,Working Class,Yes,10/04/15,10/01/15,"North Roberto, WA 46234",239.81
+fffe3100310034003900,Kevin Rickenbacker,0.7,39.0,8.0,22702.0,Bronze,44.45,77.44,Yes,Yes,No,Airways,No,Working Class,No,11/06/16,11/03/16,"North Ryanshire, SC 26060",2591.52
+fffe3600360032003700,Kathleen Anderson,0.58,9.0,4.0,625.0,Bronze,6.64,15.25,Yes,No,Yes,Airways,No,Working Class,No,08/25/17,08/23/17,"Smithshire, KS 58213",312.22
+fffe3300320030003200,Steve Breland,0.45,20.0,11.0,1007.0,Aluminium,5.4,17.27,No,No,No,Roadways,No,Working Class,Yes,02/26/18,02/23/18,"Jessicastad, WA 30137",256.3
+fffe3600350030003100,Gerald Glenn,0.92,17.0,8.0,522.0,Aluminium,3.66,15.11,No,Yes,No,Airways,No,Wealthy,No,08/28/16,08/27/16,"South Jessicamouth, MD 46313",508.83
+fffe3200370039003400,Cesar Williams,0.61,28.0,9.0,17627.0,Brass,100.41,72.91,No,No,Yes,Roadways,No,Working Class,Yes,01/02/19,01/05/19,"Kellerchester, NJ 31025",1394.77
+fffe3800390037003000,Frances Robinson,0.63,35.0,17.0,26493.0,Bronze,142.93,45.46,Yes,No,No,Waterways,No,Working Class,Yes,06/24/18,06/23/18,"New Vanessafurt, WI 96966",1176.6
+fffe3300360037003600,Lawrence Mckenna,0.48,7.0,5.0,626.0,Brass,6.45,11.43,No,No,Yes,Roadways,No,Working Class,Yes,10/17/17,10/20/17,"Denisechester, DC 99673",210.12
+fffe3600350033003600,Jason Baker,0.36,26.0,6.0,1594.0,Clay,6.32,13.61,No,No,No,Roadways,Yes,Working Class,No,03/20/18,03/17/18,"Jenkinsburgh, WA 12014",213.89
+fffe3300310039003900,Robert Eggert,0.55,18.0,10.0,646.0,Aluminium,6.64,11.5,No,No,No,Roadways,No,Working Class,No,10/01/15,10/02/15,"East Jorge, SD 54452",217.73
+fffe3600380039003700,Mildred Allison,0.7,6.0,4.0,1983.0,Marble,5.39,14.36,No,No,Yes,Roadways,No,Working Class,No,03/31/19,04/01/19,"East Diana, CO 89242",293.17
+fffe3700330030003000,Albert Veazey,0.84,25.0,10.0,1071.0,Aluminium,11.48,22.39,No,No,Yes,Roadways,No,Working Class,No,06/06/19,06/04/19,DPO AP 90343,725.3
+fffe3900310034003100,Willard Strickland,0.64,48.0,21.0,1364.0,Wood,6.93,21.33,Yes,No,Yes,Airways,No,Working Class,No,06/06/15,06/08/15,APO AP 70519,749.0
+fffe3900300037003400,Anneliese Zambrano,0.63,7.0,5.0,4305.0,Stone,20.05,22.17,No,Yes,No,Airways,No,Wealthy,Yes,09/11/18,09/15/18,"Lake Jennifer, ID 53174",428.48
+fffe3800320032003300,Sam Lemoyne,0.41,11.0,8.0,815.0,Clay,5.52,21.32,No,No,Yes,Waterways,Yes,Working Class,Yes,07/19/18,07/22/18,"East Troyview, AR 59712",-239.33
+fffe3700300037003900,Frank Wood,0.17,51.0,26.0,11075102.0,Marble,41614.21,42.42,No,Yes,Yes,Airways,Yes,Working Class,Yes,09/10/16,09/10/16,"Port Clintonborough, AK 76664",333145.3
+fffe3300380030003000,Sophia Miller,0.53,3.0,2.0,10.0,Aluminium,3.91,24.45,Yes,Yes,No,Airways,No,Working Class,No,03/04/15,03/05/15,"North Johnton, NV 36406",184.39
+fffe3700310038003600,Benjamin Nunes,0.5,32.0,20.0,546.0,Wood,4.15,14.35,No,No,No,Waterways,No,Working Class,No,03/20/17,03/24/17,"Mosesland, TN 75588",204.4
+fffe3500350030003300,Leona Gravel,0.6,12.0,8.0,57131.0,Marble,332.89,96.49,No,Yes,Yes,Roadways,No,Wealthy,No,04/10/15,04/07/15,"South Lori, WY 15491",2836.0
+fffe3100330038003400,Joann Griffin,0.74,7.0,5.0,5827.0,Stone,14.94,69.49,No,No,Yes,Roadways,No,Working Class,No,10/24/17,10/28/17,"Spencerburgh, NH 65302",727.57
+fffe3200320034003600,Max Holquin,0.58,8.0,4.0,4412.0,Stone,27.99,10.51,No,Yes,No,Roadways,No,Working Class,Yes,05/15/19,05/15/19,"Dannyberg, MN 74349",333.67
+fffe3300320037003600,Margaret Vazquez,0.14,32.0,8.0,291.0,Wood,6.74,18.27,Yes,No,No,Airways,No,Working Class,No,07/03/16,07/03/16,"Nicoleville, DC 93337",149.44
+fffe3500360033003300,Evelyn Waddell,0.79,30.0,10.0,1511.0,Clay,9.49,18.02,No,Yes,No,Roadways,Yes,Wealthy,No,10/17/17,10/20/17,"North Andrestad, GA 56326",1834.22
+fffe3700310031003800,Roger Henderson,0.84,18.0,8.0,10381.0,Brass,26.1,45.79,Yes,Yes,No,Airways,No,Working Class,No,09/02/15,08/29/15,"Lake Daniel, MD 54192",-1536.89
+fffe350032003600,David Rice,0.82,6.0,5.0,7062.0,Stone,54.87,41.52,No,No,No,Roadways,No,Working Class,No,06/07/19,06/03/19,"Lake Kristinstad, KY 81857",1408.48
+fffe3600350033003800,Gary Hensley,0.82,9.0,4.0,166.0,Clay,3.88,21.07,No,Yes,No,Airways,Yes,Working Class,No,06/13/18,06/14/18,"New Valerietown, CA 02048",312.29
+fffe3900350034003300,Jeffery Heming,0.67,18.0,6.0,312.0,Aluminium,5.96,10.78,No,Yes,No,Airways,No,Wealthy,Yes,02/09/18,02/07/18,"Andrewstad, FL 48275",311.33
+fffe380036003500,Joshua Ronn,0.96,4.0,3.0,410.0,Marble,5.35,15.71,No,Yes,Yes,Roadways,No,Working Class,No,06/30/17,06/27/17,"New Marvinville, MA 44047",429.57
+fffe3600350033003700,Barney Carter,0.74,13.0,6.0,2304.0,Bronze,10.05,20.22,No,Yes,Yes,Roadways,No,Working Class,No,02/01/17,02/02/17,"Danielleview, HI 03448",-415.93
+fffe3700350033003600,Ignacio Johnson,0.24,32.0,15.0,22471.0,Bronze,111.69,46.78,No,No,No,Roadways,No,Working Class,No,03/27/16,03/26/16,"New Heather, DC 27148",513.76
+fffe3800340031003300,Vicky Avant,0.51,5.0,3.0,651.0,Marble,5.84,19.56,Yes,No,No,Airways,No,Working Class,No,07/19/16,07/18/16,APO AA 64763,274.67
+fffe3700320030003200,Judith Keplin,0.45,36.0,18.0,750.0,Wood,4.58,15.72,No,No,No,Roadways,No,Working Class,No,10/13/15,10/14/15,"Susanshire, WI 19258",217.68
+fffe3700320038003100,Pauline Bechtel,0.8,7.0,4.0,990.0,Marble,3.81,18.21,No,Yes,No,Airways,No,Working Class,No,04/29/16,04/25/16,"Lake Jamesberg, OK 79232",344.19
+fffe3900380039003900,Mary Cohen,0.66,8.0,4.0,92.0,Aluminium,6.91,10.71,No,Yes,No,Airways,No,Wealthy,Yes,09/21/15,09/17/15,FPO AP 35358,-304.57
+fffe3500360035003600,Duane Barriere,0.39,5.0,5.0,168.0,Brass,4.35,14.19,No,No,No,Waterways,No,Wealthy,No,02/19/15,02/23/15,FPO AE 01923,159.39
+fffe3800380036003900,Georgia James,0.48,29.0,7.0,2516.0,Clay,11.88,15.31,Yes,No,No,Waterways,Yes,Wealthy,No,04/27/15,04/30/15,"Alexandraton, OK 02967",255.81
+fffe3700390030003400,George Beard,0.28,40.0,25.0,5480.0,Aluminium,4.31,93.6,Yes,Yes,No,Airways,No,Working Class,No,05/18/19,05/19/19,"Sandrafort, KY 05817",782.69
+fffe3700390038003000,Renee Shaw,0.37,35.0,18.0,1480729.0,Marble,4426.61,99.24,No,No,No,Roadways,No,Working Class,No,01/18/15,01/14/15,"East Davidtown, WY 59606",15283.78
+fffe3700380030003500,Rebecca Gregory,0.73,9.0,5.0,6873.0,Marble,49.96,41.16,No,No,No,Roadways,No,Wealthy,No,05/20/15,05/24/15,"East Robinland, AL 63372",781.66
+fffe3600380030003000,Kenneth Kessler,0.97,7.0,5.0,39.0,Wood,5.21,23.7,Yes,Yes,Yes,Airways,No,Working Class,No,12/13/16,12/17/16,"Smithfort, MN 33724",500.74
+fffe3100330039003900,Grace Parra,0.77,33.0,25.0,3390.0,Aluminium,31.52,20.14,Yes,Yes,No,Airways,No,Working Class,No,07/15/16,07/11/16,"South Cassandra, KS 80835",1145.79
+fffe3800330033003300,Nathan Scott,0.89,32.0,15.0,498.0,Wood,6.93,11.59,No,No,No,Roadways,No,Working Class,Yes,04/11/16,04/11/16,"South Robert, MN 58644",686.83
+fffe3200370032003300,Prince Wilson,0.96,10.0,5.0,9745.0,Marble,57.53,73.82,No,No,Yes,Waterways,No,Working Class,No,01/23/16,01/23/16,"Derrickburgh, NJ 26960",2541.05
+fffe3400350033003800,Ruby Legra,0.06,28.0,13.0,521.0,Wood,3.64,10.88,Yes,No,No,Waterways,No,Working Class,No,08/20/17,08/24/17,"Lindseyport, FL 56287",-86.39
+fffe3800350038003800,William Hays,0.4,12.0,6.0,97.0,Wood,3.4,19.01,Yes,Yes,No,Airways,No,Working Class,No,04/09/18,04/05/18,"Ryanland, AK 68844",209.24
+fffe3200380038003500,Alejandro Reyes,0.68,8.0,5.0,301.0,Clay,4.38,20.36,Yes,No,No,Waterways,Yes,Working Class,No,04/01/18,03/31/18,"Lake Anthony, OK 74169",-280.42
+fffe3700350036003100,Jeanna Nistler,0.63,7.0,5.0,6301.0,Stone,36.15,53.43,No,No,Yes,Roadways,No,Working Class,No,06/11/17,06/12/17,"Lopezside, IN 64715",664.4
+fffe3800380031003400,Gerald Whitesell,0.57,53.0,27.0,16672.0,Clay,47.31,45.92,Yes,Yes,No,Airways,Yes,Working Class,No,04/10/17,04/07/17,"West Saraborough, WV 58885",2123.9
+fffe3100370032003800,Lillian Johns,0.88,46.0,8.0,42468.0,Brass,49.28,77.95,No,Yes,No,Airways,No,Working Class,Yes,03/02/17,03/04/17,"West Amandaberg, AR 85071",4384.92
+fffe3600380039003400,Laura Brennan,0.12,18.0,14.0,15324.0,Bronze,11.03,47.3,Yes,No,No,Waterways,No,Working Class,No,10/24/16,10/27/16,"South Katherineville, TN 48771",269.99
+fffe3800330033003000,Autumn Young,0.41,6.0,4.0,283.0,Bronze,3.97,20.35,No,Yes,Yes,Roadways,No,Wealthy,No,07/28/17,08/01/17,"Deanborough, NM 73348",200.33
+fffe3300370034003000,Edward Cox,0.88,12.0,7.0,3664.0,Brass,21.51,16.95,No,No,No,Waterways,No,Working Class,No,01/13/19,01/15/19,"Ruthstad, OR 82705",399.47
+fffe3700340037003300,Matthew Gagnon,0.06,30.0,8.0,1376.0,Aluminium,6.83,20.84,No,No,No,Airways,No,Working Class,No,09/17/18,09/15/18,"West Paul, OK 09745",147.7
+fffe3700340030003500,Jess Santorelli,0.83,25.0,6.0,476.0,Aluminium,4.64,10.67,No,No,No,Roadways,No,Working Class,No,05/22/18,05/20/18,FPO AA 50783,325.86
+fffe3800320030003700,Jennifer Albers,0.36,4.0,3.0,387.0,Marble,6.25,18.06,Yes,No,No,Waterways,No,Working Class,No,08/16/19,08/18/19,"East Dominiqueshire, CA 17047",214.89
+fffe3900350030003200,Alfonso Mcginness,0.57,11.0,8.0,3100.0,Brass,4.07,21.76,No,No,No,Roadways,No,Working Class,Yes,09/07/15,09/08/15,"South Paul, UT 14039",311.22
+fffe3600390036003200,Adela Brock,0.95,39.0,14.0,3614.0,Aluminium,7.38,14.89,Yes,No,Yes,Waterways,No,Working Class,No,06/18/19,06/22/19,"West Robert, VT 84382",1544.2
+fffe3300300036003600,Rhonda Chamberlain,0.15,35.0,14.0,2828.0,Aluminium,5.39,10.73,No,No,No,Roadways,No,Working Class,No,02/12/17,02/12/17,"East Samanthaberg, VA 98449",124.89
+fffe3600350036003500,Mark Malcolm,0.14,17.0,10.0,225707.0,Stone,522.66,48.07,Yes,No,Yes,Airways,No,Working Class,Yes,07/21/18,07/21/18,"Paulside, MI 15236",2048.09
+fffe3800310032003100,Edna Hoss,0.57,15.0,6.0,43379.0,Marble,239.09,37.78,No,Yes,Yes,Airways,No,Wealthy,No,07/07/19,07/08/19,"Port Michele, CT 58553",1394.69
+fffe3700390035003400,Ben Brown,0.55,14.0,6.0,42791.0,Marble,78.19,28.37,No,No,No,Roadways,No,Working Class,Yes,01/16/16,01/16/16,"New Peter, MN 96362",1385.26
+fffe3800370030003800,Robert Pullis,0.37,3.0,2.0,45.0,Brass,5.82,14.6,Yes,No,No,Waterways,No,Working Class,No,11/10/15,11/14/15,"Millerchester, ND 40332",145.87
+fffe3800320035003600,Genevieve Linthicum,0.72,14.0,6.0,2550.0,Bronze,6.67,15.96,No,Yes,Yes,Airways,No,Working Class,Yes,02/04/17,02/04/17,"Gillside, NC 09824",535.58
+fffe3700350037003500,Hana Jackson,0.61,19.0,6.0,30510.0,Marble,55.54,62.66,No,No,Yes,Roadways,No,Wealthy,No,06/26/17,06/29/17,"Feliciaton, MD 84504",1311.57
+fffe3800330034003100,Michael Smith,0.44,14.0,6.0,29045.0,Marble,82.14,78.26,No,No,No,Roadways,No,Working Class,No,07/18/16,07/17/16,DPO AP 82724,1527.97
+fffe3800390037003300,James Cooper,0.53,37.0,14.0,2835.0,Aluminium,5.72,24.16,No,No,Yes,Waterways,No,Working Class,No,03/10/18,03/14/18,"Aaronshire, NC 73848",410.64
+fffe3400350036003600,Yvette Milla,0.08,9.0,5.0,40.0,Wood,6.61,23.57,No,No,No,Airways,No,Working Class,No,03/26/16,03/24/16,FPO AA 75487,144.06
+fffe3700310035003900,Theo Perez,0.97,22.0,12.0,16470.0,Bronze,33.02,55.94,Yes,No,No,Roadways,No,Working Class,No,07/28/16,07/28/16,"Shafferhaven, NV 41168",2651.89
+fffe3500360038003200,Kimberly Mutz,0.75,25.0,10.0,9820.0,Brass,48.11,25.4,Yes,No,No,Airways,No,Working Class,Yes,08/12/15,08/08/15,"Davidborough, TN 69767",1213.68
+fffe330038003300,Stephanie Clark,0.19,20.0,6.0,478.0,Aluminium,4.2,15.0,No,No,Yes,Roadways,No,Working Class,No,01/26/19,01/26/19,"Pedrochester, NJ 78141",146.27
+fffe3900320033003300,James Picard,0.51,47.0,7.0,5694.0,Bronze,26.02,33.05,No,No,Yes,Roadways,No,Wealthy,Yes,02/16/15,02/14/15,"New Makayla, CT 47487",737.32
+fffe3700350032003800,Scotty Williams,0.07,13.0,6.0,367.0,Clay,3.15,11.68,Yes,No,No,Waterways,Yes,Working Class,No,01/27/15,01/24/15,"East Erikaborough, NY 78356",124.81
+fffe3900330030003800,Richard Ortega,0.42,24.0,17.0,4848.0,Clay,32.42,23.52,Yes,No,Yes,Airways,Yes,Wealthy,No,04/11/15,04/12/15,"Samanthaburgh, WY 19962",-552.54
+fffe3400340033003500,Mariann Sanchez,0.29,20.0,8.0,2137.0,Clay,9.62,21.95,No,Yes,No,Roadways,Yes,Working Class,No,03/03/17,02/28/17,"Port Marisaville, NV 07133",308.46
+fffe3900300032003100,Chad Smyer,0.49,23.0,7.0,617.0,Aluminium,4.26,23.06,No,Yes,No,Roadways,No,Wealthy,Yes,04/15/15,04/16/15,"Margaretton, SC 10578",317.73
+fffe3400370030003200,Richard Kelley,0.18,15.0,7.0,16227.0,Marble,46.61,54.29,Yes,Yes,Yes,Airways,No,Wealthy,Yes,04/27/16,04/29/16,"Marksmouth, KY 91618",-595.73
+fffe3600380039003500,Robbin Wagner,0.13,28.0,10.0,424.0,Wood,4.33,14.07,Yes,Yes,Yes,Airways,No,Wealthy,Yes,09/09/15,09/11/15,"Cindyport, VT 03441",171.2
+fffe3900380032003500,Mary Fuentes,0.93,23.0,10.0,1044.0,Aluminium,3.41,17.34,No,Yes,No,Roadways,No,Wealthy,No,05/06/15,05/02/15,DPO AP 82384,783.26
+fffe3600390037003500,John Warren,0.5,21.0,8.0,467.0,Aluminium,4.46,20.11,No,No,No,Waterways,No,Wealthy,No,08/08/19,08/04/19,"Williamsview, HI 50574",295.23
+fffe3600360039003400,Dorothy Ward,0.44,17.0,7.0,107.0,Wood,4.03,13.72,No,No,No,Airways,No,Working Class,Yes,06/26/15,06/24/15,"Kimshire, AZ 28991",178.24
+fffe3800320030003100,Alma Martinez,0.02,3.0,2.0,18.0,Brass,4.52,21.71,Yes,Yes,No,Airways,No,Working Class,Yes,08/22/18,08/24/18,"Hoborough, LA 36434",167.94
+fffe3900390037003900,Carmen Newsom,0.66,6.0,5.0,141.0,Clay,5.45,19.73,No,Yes,No,Airways,Yes,Wealthy,No,10/23/16,10/27/16,"Tonyton, WV 85348",265.14
+fffe3800380032003800,Ruby Hempstead,0.19,6.0,4.0,102.0,Clay,5.79,21.55,No,No,No,Roadways,Yes,Working Class,No,12/26/17,12/27/17,"Kellyhaven, VT 43075",152.5
+fffe3600370034003000,Joseph Perkins,0.16,16.0,6.0,600.0,Clay,4.25,11.72,Yes,No,No,Waterways,Yes,Working Class,No,04/11/17,04/07/17,"Spencermouth, IA 56079",140.82
+fffe3500350039003200,Terry Napoli,0.55,30.0,15.0,1195439.0,Marble,2611.64,27.57,Yes,No,Yes,Waterways,No,Working Class,No,09/05/17,09/05/17,"Reneetown, OK 67164",-6854.04
+fffe3700380038003100,Michael Dunnigan,0.22,22.0,13.0,2277.0,Clay,7.12,20.36,No,No,Yes,Waterways,Yes,Working Class,No,05/16/15,05/12/15,"Ericstad, NE 64812",-251.3
+fffe3700390036003300,Donna Morger,0.7,8.0,4.0,146.0,Aluminium,4.31,21.2,Yes,No,No,Airways,No,Working Class,Yes,08/01/19,07/29/19,"East Ashleyberg, KS 30131",323.84
+fffe3300380036003000,Frank Monahan,0.57,40.0,11.0,885511.0,Marble,3631.7,44.96,No,No,No,Roadways,Yes,Working Class,No,08/02/17,08/02/17,"Salazarbury, NY 29988",13019.5
+fffe370032003900,Todd Hallett,0.01,7.0,5.0,452.0,Bronze,3.86,21.71,Yes,No,No,Waterways,No,Wealthy,Yes,07/01/15,07/04/15,"Johnsonville, IN 45674",164.36
+fffe380039003900,Caitlyn Rossbach,0.01,23.0,11.0,575.0,Wood,3.39,24.05,No,No,No,Airways,No,Wealthy,No,12/27/17,12/27/17,"Rubioport, ME 15855",143.23
+fffe3400310031003500,Emily Bank,0.4,26.0,10.0,15590.0,Brass,22.03,57.78,No,No,No,Airways,No,Working Class,No,07/16/18,07/16/18,"Bryantbury, WY 06158",687.5
+fffe3700320030003500,Peter Poe,0.3,16.0,7.0,670.0,Aluminium,5.21,20.93,Yes,No,No,Waterways,No,Wealthy,No,08/29/18,08/26/18,"North Edwardmouth, KY 71676",222.85
+fffe3400300030003400,Daniel Himes,0.09,12.0,8.0,29200.0,Marble,50.45,41.4,Yes,No,No,Roadways,No,Wealthy,No,07/12/17,07/12/17,"Lake Nicolasville, MT 75716",471.07
+fffe3700330037003000,Thomas Cox,0.37,5.0,3.0,204.0,Brass,3.84,19.15,Yes,No,No,Airways,No,Working Class,Yes,02/23/15,02/19/15,DPO AA 63881,226.39
+fffe3200300035003600,James Moore,0.53,23.0,10.0,15608.0,Brass,45.75,78.35,No,No,Yes,Airways,No,Working Class,No,04/05/18,04/09/18,"Destinyberg, VA 79104",1153.79
+fffe3500390031003000,Gayle Oliver,0.24,5.0,3.0,411.0,Marble,5.98,22.14,Yes,Yes,No,Airways,No,Wealthy,Yes,12/04/15,12/07/15,"Macdonaldland, AR 66132",255.29
+fffe3300370036003300,Sharon Owens,0.77,36.0,17.0,375.0,Wood,3.03,13.96,No,Yes,No,Roadways,No,Wealthy,No,05/13/18,05/15/18,"Nashview, NV 35182",487.43
+fffe3300380036003200,Betty Lindquist,0.38,30.0,16.0,2490.0,Aluminium,5.6,15.92,Yes,No,No,Waterways,No,Working Class,No,01/16/15,01/13/15,"South Anthonytown, ND 52515",228.8
+fffe3500380030003200,Phillis Tritto,0.62,19.0,11.0,814.0,Aluminium,5.64,24.56,No,No,Yes,Roadways,No,Working Class,No,10/13/16,10/15/16,"West Ashleyport, NE 21035",416.17
+fffe3800390031003000,Rose Hughes,0.23,38.0,17.0,1071.0,Wood,3.87,24.83,No,No,No,Roadways,No,Working Class,No,01/25/17,01/25/17,DPO AP 92188,191.98
+fffe3600360033003400,Christopher Diego,0.3,10.0,5.0,588.0,Bronze,6.39,18.72,No,No,No,Roadways,No,Working Class,No,04/26/19,04/25/19,"Port Jonathan, MT 20322",-189.76
+fffe3400330039003000,Johnny Campos,0.91,37.0,11.0,595.0,Wood,5.03,13.22,No,Yes,No,Airways,No,Working Class,No,12/17/16,12/16/16,"Lake John, NE 05973",756.35
+fffe3700310038003400,Pauline Taylor,0.3,22.0,9.0,345055.0,Stone,365.28,54.25,Yes,No,No,Waterways,No,Working Class,No,11/22/15,11/20/15,"Robertburgh, IA 04749",-1297.25
+fffe3900390033003700,Mary Dunn,0.15,49.0,22.0,171754.0,Brass,96.15,42.5,No,Yes,No,Airways,No,Working Class,No,03/13/18,03/16/18,"Justinview, UT 73295",1765.29
+fffe3800310032003000,Anthony Pruiett,0.18,37.0,14.0,1402754.0,Marble,1121.34,32.41,No,Yes,Yes,Airways,Yes,Wealthy,No,01/06/18,01/07/18,"Sarahton, WA 39926",10732.9
+fffe3400350031003000,Ana Berry,0.44,16.0,7.0,244.0,Aluminium,5.02,23.81,Yes,No,Yes,Waterways,No,Working Class,No,03/05/15,03/08/15,"Jimmyberg, VA 96009",256.43
+fffe3600350037003000,Connie Holliday,0.36,8.0,5.0,686.0,Brass,3.15,12.36,No,No,No,Roadways,No,Working Class,No,06/25/16,06/21/16,"East Isabella, NM 95050",167.31
+fffe3800300034003200,Nancy Dietzel,0.63,7.0,5.0,710.0,Brass,6.61,12.04,No,Yes,No,Airways,No,Working Class,Yes,04/27/15,04/28/15,"Reynoldsbury, NE 38591",-281.72
+fffe3500390034003400,Julio Mata,0.94,17.0,8.0,7833.0,Brass,38.41,43.84,Yes,Yes,No,Airways,No,Working Class,No,06/13/17,06/09/17,"Kayleefort, FL 37209",1845.56
+fffe3200380036003800,Gerald Swendsen,0.01,12.0,6.0,376.0,Aluminium,4.88,21.77,No,No,No,Roadways,No,Wealthy,Yes,02/17/19,02/20/19,"Waltershaven, TN 88036",139.13
+fffe3600390039003100,Bertha Porter,0.96,14.0,6.0,993.0,Bronze,10.89,23.44,Yes,Yes,Yes,Airways,No,Working Class,No,05/13/19,05/13/19,"Carlborough, NY 40390",724.74
+fffe3800390038003600,Julius Cherry,0.46,22.0,9.0,1252.0,Clay,3.82,17.11,No,No,Yes,Roadways,Yes,Working Class,No,11/26/15,11/30/15,"East Katherine, IN 71179",242.76
+fffe3800350036003200,Annette Yamashita,0.38,23.0,10.0,15641.0,Brass,17.68,54.93,No,Yes,No,Roadways,No,Working Class,No,01/17/16,01/14/16,APO AA 15649,621.83
+fffe3900360038003800,Sara Speck,0.25,38.0,16.0,3809.0,Aluminium,3.03,17.06,No,No,Yes,Roadways,No,Working Class,No,03/22/18,03/25/18,FPO AA 46519,200.37
+fffe3700340030003600,Michael Chambers,0.17,37.0,14.0,28060.0,Bronze,27.83,28.76,No,No,No,Roadways,No,Wealthy,Yes,08/17/19,08/21/19,"Timothyport, MS 07141",307.51
+fffe3800380032003500,Patricia Brock,0.52,30.0,25.0,6065475.0,Stone,28255.14,36.45,Yes,No,No,Airways,No,Working Class,No,11/30/18,12/04/18,"South Amandastad, AR 77471",72385.43
+fffe3800320032003700,Brad Strom,0.68,24.0,9.0,2462.0,Clay,7.14,22.22,Yes,No,No,Waterways,Yes,Working Class,No,12/23/16,12/22/16,"Freemanfurt, OK 89459",629.22
+fffe3800310033003100,Stephen George,0.4,10.0,4.0,216.0,Clay,5.65,11.5,No,No,Yes,Waterways,Yes,Working Class,No,03/17/17,03/21/17,"Transide, MD 51573",148.89
+fffe3600360037003500,Doris Mcgann,0.67,20.0,6.0,230.0,Wood,5.89,12.79,Yes,No,Yes,Waterways,No,Working Class,No,03/06/15,03/08/15,"Porterstad, MD 46441",283.09
+fffe3600390032003400,Mark Rios,0.65,14.0,7.0,3965.0,Brass,28.93,12.89,Yes,No,No,Waterways,No,Working Class,No,09/23/16,09/23/16,"Thomasfort, MN 95319",285.36
+fffe3200340036003200,Donald White,0.6,27.0,13.0,29541.0,Bronze,124.96,74.15,Yes,No,Yes,Airways,No,Working Class,No,07/18/16,07/18/16,"Hintonland, TN 92740",1856.51
+fffe3900310037003000,Gwendolyn Sandell,0.1,17.0,6.0,293.0,Aluminium,5.54,14.7,No,No,No,Roadways,No,Working Class,No,12/20/15,12/22/15,"New Taraside, SC 31320",111.79
+fffe3900350039003600,Nancy Marrara,0.51,6.0,5.0,4600.0,Stone,6.3,20.59,Yes,Yes,Yes,Airways,No,Wealthy,No,08/11/19,08/08/19,"Thomasshire, MI 94688",507.99
+fffe3600380034003200,Loretta Cayer,0.89,47.0,18.0,124428.0,Brass,363.93,78.83,No,No,Yes,Waterways,No,Wealthy,No,12/31/17,12/28/17,"Jamesburgh, SC 39081",8033.91
+fffe3300370030003700,Olga Zender,0.64,26.0,11.0,830.0,Aluminium,3.78,20.32,No,Yes,No,Roadways,No,Wealthy,No,08/12/17,08/09/17,"East Derrickchester, NM 08902",452.74
+fffe3800300035003000,Robert Gray,0.81,27.0,22.0,1240.0,Aluminium,4.19,15.66,Yes,Yes,No,Airways,No,Wealthy,No,04/09/19,04/12/19,"Michaelfort, ND 38606",698.49
+fffe3600390030003900,Alisa Morrison,0.77,15.0,7.0,71.0,Wood,4.36,11.49,No,No,No,Airways,No,Wealthy,Yes,11/14/18,11/14/18,DPO AA 90920,-276.08
+fffe3800390033003000,Ronald Reinhardt,0.08,8.0,5.0,873.0,Brass,4.41,21.2,Yes,Yes,No,Airways,No,Working Class,No,02/28/18,02/28/18,"Port Elijah, ID 54723",185.31
+fffe3600360033003600,Keith Allen,0.61,17.0,6.0,367.0,Aluminium,4.64,15.25,No,No,Yes,Roadways,No,Working Class,No,07/03/15,06/30/15,DPO AP 24289,276.52
+fffe3100370037003000,Daniel Jefferson,0.85,19.0,17.0,1592885.0,Stone,14443.34,66.49,No,No,Yes,Airways,No,Working Class,Yes,03/13/17,03/10/17,"Michelleshire, AR 26546",38636.86
+fffe3600380036003700,Nikole Parks,0.76,30.0,15.0,31074.0,Bronze,41.07,43.12,No,No,No,Roadways,No,Working Class,No,02/03/18,01/30/18,"East Maryport, TX 22070",1704.47
+fffe3800330037003400,Monica Perdue,0.34,51.0,21.0,9117294.0,Marble,5579.21,46.57,No,Yes,Yes,Airways,Yes,Wealthy,No,04/07/15,04/09/15,"Royshire, IN 07616",154844.15
+fffe3800320035003200,Amy Quinn,0.71,30.0,18.0,20734.0,Bronze,100.87,72.63,No,No,Yes,Roadways,No,Working Class,No,08/06/15,08/02/15,"Johnnyland, SC 04299",2296.11
+fffe3700310036003900,Michale Obhof,0.65,12.0,8.0,1392.0,Bronze,6.99,10.95,No,No,Yes,Waterways,No,Working Class,No,08/24/18,08/22/18,"Angelafort, NY 56012",327.47
+fffe3900380034003200,Joseph Brooks,0.56,23.0,8.0,227096.0,Marble,437.58,39.31,Yes,Yes,Yes,Airways,No,Wealthy,No,04/27/16,04/25/16,"Bowenmouth, UT 39216",5353.38
+fffe3900390034003100,Jonathan Evener,0.95,20.0,6.0,76862.0,Marble,281.39,72.66,No,No,No,Roadways,No,Working Class,Yes,02/01/15,01/29/15,"Donnahaven, WV 80687",3266.04
+fffe3300360035003700,Robert Parker,0.19,17.0,9.0,58581.0,Marble,18.79,81.03,Yes,No,Yes,Waterways,No,Working Class,No,02/04/17,02/02/17,"Hunterland, WV 00643",592.24
+fffe340035003000,Alyssa Lawson,0.37,30.0,8.0,19296.0,Brass,87.19,76.47,No,No,No,Waterways,No,Working Class,Yes,05/18/17,05/18/17,"Vangmouth, VA 90309",1249.53
+fffe3900370031003200,Michael Kalama,0.99,4.0,4.0,29.0,Wood,6.52,12.52,No,No,No,Airways,No,Working Class,No,02/10/17,02/09/17,"Milesland, AK 46539",474.47
+fffe3900310032003400,Robert King,0.14,15.0,8.0,3911.0,Brass,14.12,18.68,No,Yes,No,Airways,No,Working Class,No,04/17/15,04/13/15,"Rosariomouth, NH 06597",227.35
+fffe3300320038003100,Helen Hunter,0.17,12.0,7.0,442.0,Clay,5.23,21.3,Yes,Yes,Yes,Airways,Yes,Wealthy,Yes,08/31/15,09/02/15,"Lake Elizabethburgh, IA 42500",230.74
+fffe3500350037003200,Brian Durbin,0.52,13.0,7.0,87279.0,Stone,330.95,51.37,No,No,No,Waterways,No,Working Class,No,10/10/15,10/08/15,"Kevinmouth, MD 12419",1494.52
+fffe3800380033003700,Anthony Pajerski,0.3,17.0,7.0,3030.0,Bronze,5.04,18.19,No,No,Yes,Roadways,No,Working Class,No,08/15/19,08/15/19,"Cervanteschester, CO 18310",223.29
+fffe3800300033003000,Elizabeth Breden,0.89,7.0,4.0,458.0,Brass,3.71,15.63,Yes,No,No,Roadways,No,Working Class,Yes,11/11/16,11/08/16,DPO AA 67998,362.5
+fffe3900330035003100,Michael Matthews,0.81,10.0,5.0,1410.0,Brass,6.46,12.25,No,Yes,Yes,Roadways,No,Wealthy,Yes,04/14/15,04/11/15,"South Georgeberg, IL 56034",650.06
+fffe3700360031003700,Doug Carver,0.16,24.0,11.0,3525.0,Clay,8.35,17.76,No,No,No,Waterways,Yes,Working Class,Yes,10/20/15,10/24/15,"East Cassandraland, MD 16408",168.86
+fffe360035003700,Kenny Gordon,0.88,25.0,17.0,768813.0,Marble,3929.77,55.12,No,No,Yes,Roadways,No,Working Class,Yes,03/27/18,03/24/18,"West Vanessabury, ND 83002",-28508.63
+fffe3100310032003200,Clara Osbourn,0.67,26.0,20.0,5188367.0,Stone,12998.53,75.88,No,No,No,Waterways,No,Working Class,Yes,03/02/17,03/02/17,"New Jacquelineville, WV 93389",23084.42
+fffe3900310038003300,Wendi Engle,0.81,29.0,17.0,1209.0,Wood,6.8,13.31,No,No,No,Roadways,No,Working Class,Yes,11/28/15,11/25/15,FPO AA 74094,652.51
+fffe3600370034003600,Larry Mcdonald,0.41,14.0,7.0,94548.0,Stone,448.0,42.33,No,Yes,No,Roadways,No,Wealthy,No,04/29/19,05/02/19,"New Courtney, ND 52094",-2331.88
+fffe3600340035003000,Scott Richards,0.42,36.0,18.0,5222.0,Aluminium,8.35,31.46,No,No,Yes,Waterways,No,Working Class,Yes,02/10/16,02/08/16,DPO AE 38602,561.88
+fffe3400350034003300,Timothy Slaughter,0.31,9.0,5.0,220.0,Bronze,6.91,17.84,Yes,Yes,No,Airways,No,Wealthy,No,03/28/18,03/26/18,"North Brianberg, VA 29563",236.93
+fffe3800310030003900,James Cooney,0.17,40.0,18.0,11098.0,Clay,30.41,84.43,Yes,Yes,Yes,Airways,Yes,Wealthy,Yes,04/15/17,04/11/17,"Summersview, UT 55063",1154.39
+fffe3800370037003000,Paul Rangel,0.04,42.0,15.0,2603197.0,Marble,2560.02,97.03,No,Yes,No,Airways,Yes,Working Class,Yes,02/13/18,02/13/18,"East Matthewport, NJ 46318",8694.3
+fffe3600330034003000,Catalina Harbison,0.8,30.0,15.0,15976.0,Bronze,69.32,35.11,Yes,Yes,No,Airways,No,Wealthy,No,01/17/19,01/20/19,"Lake Shannon, GA 19115",3398.38
+fffe3600370035003800,Constance Paulson,0.85,33.0,16.0,2524.0,Aluminium,3.61,20.09,Yes,No,No,Airways,No,Working Class,No,05/26/16,05/24/16,"Mitchellmouth, OR 90430",871.73
+fffe3900380034003900,Thomas Kuszynski,0.39,24.0,8.0,2151.0,Clay,8.13,19.71,No,Yes,Yes,Airways,Yes,Wealthy,No,03/05/19,03/09/19,"West Valerie, AR 14864",400.81
+fffe3700300035003700,Amy Smith,0.05,22.0,16.0,381349.0,Marble,1394.74,41.24,Yes,No,No,Waterways,No,Working Class,No,06/22/17,06/24/17,"East Williamfurt, IN 55545",1351.77
+fffe390033003800,Leland Sellars,0.61,8.0,5.0,9736.0,Stone,10.69,71.3,No,No,Yes,Roadways,No,Working Class,No,01/24/16,01/21/16,"Robinview, RI 16532",784.16
+fffe3100320030003800,Toya Belden,0.81,33.0,16.0,98883.0,Brass,259.2,60.9,No,Yes,No,Airways,No,Working Class,Yes,06/05/19,06/02/19,"South Robertmouth, OH 59287",-5585.99
+fffe3600390031003500,Marcus Noffsinger,0.94,12.0,7.0,312.0,Aluminium,4.61,21.53,Yes,No,No,Airways,No,Working Class,Yes,01/21/15,01/23/15,DPO AE 54927,541.37
+fffe3300310037003100,Alejandro Hagan,0.17,47.0,23.0,5624.0,Aluminium,19.82,63.79,No,No,No,Roadways,No,Working Class,No,07/01/15,07/01/15,"Christinamouth, ND 71887",-392.2
+fffe3600360039003800,Robert Davis,0.14,13.0,7.0,4621.0,Brass,20.43,20.88,No,No,Yes,Roadways,No,Working Class,Yes,04/23/19,04/19/19,"Brendabury, LA 89291",267.67
+fffe3400340033003000,Robert Jensen,0.39,29.0,14.0,35756.0,Bronze,80.92,31.58,No,No,No,Waterways,No,Working Class,Yes,01/10/15,01/14/15,"Grayland, KS 72334",954.31
+fffe3900360032003200,Kyle Rock,0.26,33.0,19.0,4112.0,Aluminium,7.1,18.46,No,No,Yes,Roadways,No,Working Class,No,10/26/16,10/28/16,"Brownfort, NV 44769",241.17
+fffe3700370033003600,Norma Graza,0.07,40.0,9.0,14896.0,Brass,37.44,43.58,No,Yes,No,Roadways,No,Working Class,No,12/08/16,12/11/16,"Robertsonborough, AR 76154",300.21
+fffe3500390037003100,Mary Clark,0.61,39.0,21.0,4775.0,Aluminium,13.96,11.13,Yes,No,No,Roadways,No,Wealthy,Yes,07/13/16,07/09/16,"Audreyberg, NV 93691",458.83
+fffe3700380036003700,Rhonda Thompson,0.3,46.0,12.0,6184.0,Clay,29.9,25.69,Yes,Yes,No,Airways,Yes,Wealthy,No,07/14/18,07/16/18,APO AA 70744,456.44
+fffe3800330035003100,John Witzke,0.42,4.0,4.0,1076.0,Stone,3.25,11.36,No,Yes,No,Airways,No,Working Class,No,01/18/16,01/14/16,"Nicholasberg, AR 71778",231.98
+fffe3800390034003600,Joshua Tuder,0.73,34.0,10.0,1284.0,Aluminium,5.8,13.26,Yes,No,No,Waterways,No,Working Class,No,07/30/15,08/01/15,"Port Bethanybury, IA 73593",377.59
+fffe3600390032003100,George Edie,0.29,11.0,7.0,59056.0,Stone,124.57,87.48,No,No,No,Roadways,No,Working Class,No,04/05/17,04/09/17,APO AA 10539,743.13
+fffe3400340037003500,Martha Amos,0.47,11.0,8.0,61224.0,Stone,155.42,52.34,No,Yes,No,Roadways,No,Wealthy,No,08/08/17,08/10/17,"Lake Tammystad, AL 55899",1020.59
+fffe3800320031003300,Robert Key,0.06,24.0,6.0,285.0,Wood,5.89,18.31,No,No,No,Roadways,No,Working Class,No,08/18/17,08/19/17,FPO AP 20909,115.47
+fffe3600370031003400,James Bryson,0.05,6.0,5.0,60.0,Aluminium,4.53,14.33,Yes,No,Yes,Waterways,No,Wealthy,No,06/09/15,06/11/15,"Davenportborough, WI 27597",126.15
+fffe3800310036003700,Craig Blount,0.04,26.0,9.0,399.0,Aluminium,3.07,10.39,No,No,No,Roadways,No,Working Class,Yes,11/30/17,12/01/17,FPO AE 98987,98.37
+fffe3700350038003500,Jeanne Snell,0.99,21.0,9.0,8946.0,Brass,49.25,86.22,No,No,No,Waterways,No,Working Class,No,06/30/17,07/04/17,"North Amandaville, ID 57482",2936.01
+fffe3700370039003700,Ron Small,0.68,46.0,9.0,27614.0,Bronze,23.79,90.69,Yes,No,No,Waterways,No,Working Class,No,06/10/15,06/13/15,"Oscarborough, CA 20541",1862.96
+fffe3900310038003400,Judith Fletcher,0.53,22.0,6.0,63498.0,Marble,112.91,98.72,No,No,Yes,Roadways,No,Wealthy,No,11/30/18,12/03/18,"Pattyland, NE 55164",1386.32
+fffe3700380035003300,Tanya Zucco,0.72,13.0,7.0,822.0,Clay,6.94,10.14,No,No,No,Roadways,Yes,Working Class,No,01/29/19,01/31/19,"Williamsfort, PA 42653",288.53
+fffe3100390038003200,Rodney Schultz,0.61,11.0,8.0,2354.0,Bronze,4.35,18.97,No,No,Yes,Waterways,No,Working Class,No,11/29/16,11/28/16,"South Craig, IN 20532",311.34
+fffe3400360033003500,Velma Simpson,0.64,26.0,6.0,1430.0,Clay,8.69,22.07,Yes,Yes,No,Airways,Yes,Wealthy,No,01/21/17,01/21/17,"Kathyfort, WI 53297",860.64
+fffe3700320030003800,Marion Harvey,0.76,9.0,5.0,218.0,Clay,5.5,16.26,No,No,Yes,Airways,Yes,Working Class,Yes,07/27/15,07/26/15,"West Mark, IL 74574",352.64
+fffe3600370033003500,Robert Williams,0.25,14.0,8.0,118734.0,Stone,411.16,95.59,No,Yes,No,Airways,No,Working Class,No,12/24/18,12/25/18,"Belindahaven, VA 49195",1944.14
+fffe3700360033003700,John Schultz,0.7,32.0,14.0,777735.0,Marble,3914.81,28.53,No,No,Yes,Roadways,No,Working Class,No,01/06/19,01/03/19,"Collinsfurt, WV 44815",19402.94
+fffe3900360036003000,Timothy Fonner,0.32,9.0,5.0,844.0,Brass,4.17,16.01,Yes,No,Yes,Airways,No,Working Class,No,02/22/19,02/26/19,"Warrenshire, MD 70988",187.46
+fffe3700320032003700,Jeremy Crawford,0.37,19.0,8.0,108740.0,Marble,202.15,82.41,No,Yes,No,Roadways,No,Wealthy,No,04/23/16,04/25/16,"Port Angeltown, MI 33663",1308.04
+fffe350039003300,Michele Gildea,0.52,17.0,7.0,163.0,Wood,4.83,13.07,No,Yes,Yes,Airways,No,Wealthy,Yes,10/02/16,10/02/16,"Marktown, MT 98797",242.1
+fffe3800330034003700,Ervin Leggett,0.37,51.0,23.0,13736.0,Clay,17.56,47.93,Yes,No,No,Waterways,Yes,Working Class,No,10/28/17,10/25/17,"New Kristen, LA 19830",676.27
+fffe3300320034003600,Thomas Forte,0.06,21.0,10.0,279574.0,Stone,771.63,61.73,Yes,Yes,Yes,Airways,No,Working Class,No,02/12/15,02/13/15,APO AA 79481,2472.37
+fffe310033003700,John Brown,0.17,17.0,8.0,1803.0,Clay,7.48,23.43,Yes,No,No,Waterways,Yes,Working Class,No,08/05/17,08/04/17,"Parkermouth, ME 86024",200.39
+fffe3900350031003200,Isabelle Shuler,0.19,18.0,16.0,988995.0,Stone,4419.49,49.23,No,Yes,No,Airways,No,Working Class,Yes,09/20/16,09/18/16,"New Stephanieport, HI 74286",16819.09
+fffe3900300033003400,Virginia Smuin,0.5,3.0,2.0,16.0,Clay,5.06,11.35,No,Yes,Yes,Airways,Yes,Wealthy,No,12/12/17,12/09/17,"Smithville, DE 93629",178.51
+fffe330032003500,Sue Walker,0.92,27.0,11.0,1087679.0,Stone,2989.09,99.38,No,No,No,Waterways,No,Working Class,No,12/04/16,12/04/16,"East Wendyville, CA 22863",11302.73
+fffe3900320037003200,Ada Lally,0.7,19.0,6.0,79610.0,Stone,343.71,35.75,No,Yes,No,Roadways,No,Working Class,No,04/03/17,04/02/17,"Lake Deborah, NV 00676",2727.76
+fffe3800380034003800,Ellen Kennedy,0.6,24.0,14.0,14037.0,Bronze,7.3,29.48,No,Yes,No,Airways,No,Working Class,No,11/24/16,11/24/16,"Zimmermanport, CT 07279",783.92
+fffe3800350036003600,Barbara Goud,0.88,17.0,8.0,221082.0,Stone,416.17,27.32,No,No,No,Roadways,No,Working Class,No,02/20/17,02/20/17,"Stacyfurt, MO 93509",5520.39
+fffe3900340031003800,Miranda Perryman,0.52,27.0,17.0,39133.0,Bronze,43.26,26.57,No,No,No,Waterways,No,Working Class,No,02/23/19,02/23/19,"Lake Lisafurt, MD 20827",607.96
+fffe3300310034003000,Henry Flanagan,0.73,12.0,6.0,269.0,Aluminium,3.78,11.28,No,No,Yes,Airways,No,Working Class,No,09/12/18,09/09/18,"Christinaland, ID 92255",242.32
+fffe3600390033003200,Karen Stewart,0.55,9.0,5.0,215.0,Clay,6.68,14.59,No,Yes,Yes,Airways,Yes,Working Class,No,01/10/17,01/11/17,"Marquezside, WA 77414",258.07
+fffe3200340039003900,Daisy Masters,0.71,14.0,8.0,236.0,Aluminium,4.93,19.43,No,No,No,Airways,No,Working Class,Yes,09/10/18,09/08/18,"Sharimouth, CT 76198",358.77
+fffe3900310031003200,Molly Gast,0.42,21.0,15.0,1336.0,Aluminium,5.7,19.72,No,Yes,Yes,Airways,No,Wealthy,No,08/29/16,09/01/16,"Charleneburgh, WA 33847",316.09
+fffe3900310036003400,Lenora Gilkerson,0.41,30.0,12.0,17246.0,Bronze,8.11,51.54,Yes,No,No,Waterways,No,Working Class,No,10/13/18,10/17/18,"South Brendachester, UT 26287",-540.52
+fffe3900330031003800,Anna Vigil,0.08,3.0,3.0,406.0,Stone,4.19,12.91,No,Yes,No,Airways,No,Wealthy,No,05/06/16,05/06/16,"Andersonshire, VT 52725",199.12
+fffe3300340032003700,John Fraise,0.78,6.0,4.0,109.0,Clay,6.33,10.31,No,No,No,Waterways,Yes,Working Class,Yes,07/24/16,07/26/16,"South Donaldshire, WI 08355",284.13
+fffe3600360032003300,Elaine Shirah,0.29,25.0,9.0,384.0,Wood,3.14,23.04,No,Yes,No,Airways,No,Working Class,No,02/24/15,02/20/15,"Andrewville, ID 96046",213.2
+fffe3200330030003600,Timothy Braunstein,0.14,5.0,4.0,1298.0,Marble,3.82,16.58,No,No,Yes,Roadways,No,Working Class,No,07/13/18,07/17/18,"Lake Zachary, VA 16319",-172.61
+fffe39003300,William Davison,0.6,28.0,8.0,448.0,Wood,4.95,13.14,No,No,Yes,Waterways,No,Working Class,No,07/27/19,07/27/19,"East Larryside, NJ 00789",267.79
+fffe3200380031003300,Donna Coley,0.08,8.0,4.0,466.0,Brass,5.03,15.93,Yes,No,Yes,Airways,No,Working Class,No,06/02/15,06/05/15,"Tommystad, NM 66936",157.65
+fffe3900380036003200,Willie Smith,0.57,10.0,5.0,314.0,Clay,3.57,21.14,No,No,Yes,Roadways,Yes,Working Class,No,12/02/16,12/02/16,"Mirandaberg, HI 61621",256.55
+fffe3900380034003800,Richard Jones,0.37,20.0,16.0,680.0,Wood,6.06,20.7,No,Yes,No,Roadways,No,Wealthy,No,05/15/17,05/14/17,"Cruzport, ND 89377",265.89
+fffe3700350039003700,Martha Mertes,0.45,21.0,12.0,4014.0,Clay,3.01,23.59,No,No,No,Roadways,Yes,Working Class,No,08/15/19,08/12/19,"Jerryberg, FL 82875",330.97
+fffe3900300038003300,Cindy Henderson,0.12,37.0,22.0,7403.0,Aluminium,6.29,51.76,No,No,Yes,Roadways,No,Wealthy,No,02/10/16,02/09/16,"Ginaview, OR 32505",405.65
+fffe3700320030003300,Lavone Turner,0.52,15.0,6.0,554.0,Clay,6.76,23.44,No,Yes,No,Airways,Yes,Wealthy,No,03/09/15,03/13/15,"West Kariside, NJ 53265",328.72
+fffe3600390037003000,Matthew Smith,0.23,17.0,7.0,179.0,Wood,4.73,20.3,Yes,No,Yes,Waterways,No,Working Class,Yes,11/14/18,11/12/18,"New Tiffanytown, CT 73526",193.35
+fffe3100370037003500,John Howard,0.2,19.0,8.0,5202.0,Bronze,11.91,40.62,Yes,No,No,Roadways,No,Working Class,No,04/17/19,04/17/19,"Davidport, IL 68115",336.57
+fffe3800380031003800,Patricia Butler,0.36,18.0,16.0,251955.0,Marble,663.95,60.43,No,No,No,Roadways,No,Working Class,No,03/13/19,03/12/19,"Greenview, NE 56575",3347.5
+fffe3300320039003900,Chad Atwell,0.6,27.0,9.0,7836.0,Bronze,7.93,73.74,No,No,No,Roadways,No,Working Class,No,05/04/17,05/07/17,"North Erinfurt, WI 44663",1019.35
+fffe3600360033003500,Denise Strickland,0.39,27.0,17.0,1077.0,Wood,4.23,17.67,No,No,No,Roadways,No,Working Class,No,07/11/17,07/13/17,"Newtonstad, CO 52241",196.99
+fffe3500350037003800,Natasha Wada,0.34,28.0,6.0,706.0,Aluminium,4.08,15.24,No,Yes,No,Airways,No,Wealthy,No,01/27/16,01/28/16,"South Carlos, ND 30065",190.01
+fffe3600390037003600,James Sato,0.88,21.0,6.0,127553.0,Stone,298.05,69.17,No,No,Yes,Roadways,No,Working Class,No,04/25/17,04/27/17,"Triciastad, WV 26577",2866.97
+fffe3700390035003900,Joyce Ibarra,0.22,6.0,4.0,100.0,Clay,4.29,10.65,No,No,No,Airways,Yes,Working Class,No,04/11/19,04/11/19,"South Maria, MT 86636",115.22
+fffe3800300033003200,Tamara Valentine,0.43,26.0,6.0,131171.0,Marble,947.48,63.8,Yes,No,No,Waterways,No,Working Class,Yes,06/10/18,06/14/18,"East Manuelport, LA 73561",12213.62
+fffe3900390037003200,Eric Brown,0.94,3.0,3.0,39.0,Bronze,6.13,19.03,No,No,No,Waterways,No,Working Class,No,05/19/19,05/15/19,"New Timothy, ME 71629",493.89
+fffe3700340030003000,Jose Trimble,0.1,19.0,8.0,422.0,Aluminium,6.68,17.34,No,No,No,Waterways,No,Working Class,No,09/28/18,09/24/18,"Brianview, UT 47112",142.23
+fffe3700310039003200,John Sontag,0.24,24.0,10.0,13884.0,Brass,10.78,91.24,No,No,Yes,Waterways,No,Working Class,No,01/20/15,01/20/15,"West Heatherside, WI 47482",621.96
+fffe3600350036003000,Steven Sisto,0.25,11.0,7.0,1197.0,Bronze,3.66,18.64,Yes,No,Yes,Waterways,No,Working Class,Yes,03/31/19,03/29/19,"New Tracyland, MS 25102",214.78
+fffe3100300033003800,Michael Sharp,0.35,12.0,8.0,111.0,Wood,5.26,11.97,No,Yes,Yes,Roadways,No,Working Class,Yes,12/02/16,12/01/16,"Tiffanychester, GA 84952",168.01
+fffe3700370033003200,Maxine Wells,0.81,6.0,5.0,1455.0,Marble,5.17,14.42,No,No,Yes,Roadways,No,Working Class,No,12/05/17,12/05/17,"Stephaniefurt, FL 52677",353.95
+fffe3900390030003300,David Curry,0.11,12.0,7.0,94.0,Wood,3.19,24.32,No,Yes,No,Roadways,No,Working Class,No,05/23/16,05/23/16,"Fergusonmouth, VT 42340",143.13
+fffe3600300034003400,Debora Brown,0.73,12.0,6.0,1758.0,Brass,6.77,22.75,Yes,No,No,Waterways,No,Wealthy,No,08/14/15,08/16/15,"Whitetown, NJ 58788",486.85
+fffe3500360037003800,Michael Wilkins,0.77,28.0,13.0,4900.0,Clay,28.02,23.0,No,No,Yes,Airways,Yes,Working Class,No,07/03/19,07/06/19,"New Andrea, GA 77982",835.68
+fffe3800350033003400,Bridgett Meza,0.21,7.0,5.0,198.0,Clay,3.77,10.76,Yes,No,Yes,Waterways,Yes,Working Class,Yes,04/24/19,04/23/19,"Jamestown, KS 26390",143.33
+fffe3900340036003000,Brian Travis,0.05,39.0,13.0,32953.0,Bronze,91.54,27.95,No,Yes,Yes,Airways,No,Working Class,No,06/28/16,07/01/16,"North Caitlyn, NM 69921",512.69
+fffe3900350038003000,Nancy Knight,0.68,11.0,7.0,23157.0,Marble,56.71,33.62,No,No,No,Roadways,No,Working Class,No,07/17/15,07/13/15,"Smithside, DE 42526",1077.96
+fffe3900350038003600,Philip Hager,0.17,21.0,8.0,8134.0,Brass,18.15,25.48,No,Yes,Yes,Roadways,No,Wealthy,Yes,08/30/17,08/26/17,"Laurastad, KY 03049",383.55
+fffe3100320031003600,Eric Hughes,0.89,19.0,14.0,25842.0,Brass,32.16,61.77,No,No,No,Roadways,No,Wealthy,No,08/17/15,08/19/15,"South Oscartown, CO 57161",2163.53
+fffe3700300034003600,Kurt Galloway,0.13,5.0,4.0,307.0,Brass,6.35,11.58,Yes,No,No,Waterways,No,Working Class,No,05/12/16,05/16/16,"Lake Roger, ID 07714",124.51
+fffe3900310038003200,Rebecca Heard,0.62,10.0,4.0,6536.0,Marble,21.41,45.41,No,No,No,Waterways,No,Working Class,No,04/09/19,04/08/19,"Lake William, DE 11030",523.57
+fffe3600390033003400,Warren Lee,0.34,3.0,3.0,42.0,Brass,6.28,19.31,No,No,No,Roadways,No,Working Class,No,11/24/16,11/20/16,"Cuevasside, ID 61103",198.58
+fffe3900390033003000,Joseph Madden,0.49,14.0,6.0,59415.0,Stone,88.13,68.97,Yes,No,No,Airways,No,Working Class,Yes,04/22/15,04/22/15,"South Natalie, NV 89651",-2349.11
+fffe3600390035003700,Leanne Prieto,0.95,44.0,15.0,11196.0,Clay,61.12,57.31,No,No,Yes,Waterways,Yes,Working Class,No,03/04/19,03/05/19,"Lake Stephanieville, DC 09403",-7178.95
+fffe3800340036003600,Rhonda Shae,0.6,35.0,19.0,7281.0,Clay,10.7,59.69,No,No,No,Waterways,Yes,Working Class,Yes,02/20/18,02/20/18,FPO AA 82871,1174.64
+fffe3600300031003800,John Costa,0.62,28.0,17.0,1582139.0,Marble,12697.57,94.99,Yes,Yes,No,Airways,No,Working Class,No,12/29/16,12/28/16,"Lake Philip, AK 46037",33313.31
+fffe3600300037003400,Maryann Mcgraw,0.06,43.0,9.0,33757.0,Brass,14.34,48.83,No,No,No,Roadways,No,Working Class,No,02/08/15,02/06/15,FPO AA 66836,371.15
+fffe3700310030003400,Cecilia Wood,0.24,24.0,13.0,636.0,Wood,4.77,23.32,No,No,Yes,Roadways,No,Working Class,No,02/02/19,01/29/19,"Lake Lauriemouth, MS 45286",222.83
+fffe3800300033003400,Cornelius Kiley,0.71,41.0,10.0,1392423.0,Stone,8898.85,60.48,No,No,No,Roadways,No,Working Class,No,05/11/18,05/13/18,"South Gregorybury, PA 67054",325318.9
+fffe3600380036003600,Alfredo Kelly,0.77,36.0,17.0,4225.0,Aluminium,14.06,17.55,No,No,Yes,Airways,No,Working Class,No,08/03/18,08/03/18,"Woodbury, NH 04762",711.22
+fffe3900360037003700,Megan Jones,0.73,5.0,4.0,2625.0,Stone,26.18,16.33,No,Yes,No,Airways,No,Wealthy,No,01/11/15,01/07/15,"Port Alexandra, MT 16607",431.66
+fffe3900360032003400,Douglas Workman,0.17,29.0,17.0,6351.0,Clay,9.75,48.36,Yes,No,No,Roadways,Yes,Working Class,No,07/22/17,07/19/17,"Bellfort, OR 26375",460.79
+fffe3900350034003700,Chris Walker,0.76,13.0,6.0,139.0,Aluminium,6.76,17.8,No,No,No,Waterways,No,Working Class,No,12/03/18,12/03/18,"Lake David, GA 93631",392.53
+fffe3900340038003100,Alice Taylor,0.67,43.0,20.0,15562715.0,Stone,48748.57,88.28,No,Yes,Yes,Airways,No,Wealthy,Yes,10/11/18,10/14/18,"North Richard, OK 67893",1196661.77
+fffe3700300030003900,David Rodriguez,0.21,7.0,5.0,17.0,Wood,3.75,22.68,Yes,No,No,Roadways,No,Working Class,No,12/20/16,12/20/16,"Port Javier, OR 37481",172.41
+fffe3800370039003100,Joan Nix,0.61,5.0,5.0,2287.0,Marble,7.21,20.35,Yes,Yes,No,Airways,No,Working Class,Yes,07/08/18,07/04/18,"Jacobbury, MO 99333",513.25
+fffe3900380038003900,Jacqueline Callahan,0.78,26.0,6.0,78.0,Wood,5.29,11.41,No,No,Yes,Roadways,No,Wealthy,No,08/15/18,08/19/18,"New Brandi, IL 15185",364.96
+fffe3800300031003600,Travis Shaffer,0.2,12.0,7.0,55016.0,Stone,158.44,45.0,Yes,No,Yes,Airways,No,Working Class,No,08/12/17,08/09/17,"East Nancymouth, NH 38929",754.5
+fffe3600350036003300,Arthur Berry,0.34,15.0,7.0,2554.0,Bronze,5.79,19.37,No,No,No,Waterways,No,Working Class,No,04/14/19,04/14/19,DPO AP 42187,201.81
+fffe3900380030003900,Donald Cowan,0.58,7.0,4.0,70.0,Wood,4.42,14.71,No,No,Yes,Airways,No,Wealthy,No,09/24/18,09/24/18,DPO AP 49313,194.79
+fffe3400310033003900,Gilbert Atkinson,0.47,26.0,16.0,2651511.0,Stone,5302.52,70.05,No,Yes,No,Airways,No,Wealthy,Yes,11/11/16,11/11/16,"Anthonyville, AL 39873",79268.05
+fffe3700340033003700,Robert Mosier,0.67,10.0,5.0,1079.0,Brass,4.77,24.78,No,Yes,No,Airways,No,Working Class,Yes,01/27/19,01/31/19,"Michelleshire, DE 75058",-338.16
+fffe3900340038003600,Alfred Mills,0.66,30.0,13.0,433.0,Wood,3.29,23.31,No,Yes,No,Airways,No,Wealthy,No,04/13/18,04/13/18,FPO AP 67003,508.83
+fffe3300360030003000,Lawrence Croce,0.79,16.0,6.0,689.0,Clay,6.32,14.91,No,No,No,Roadways,Yes,Working Class,Yes,10/22/18,10/25/18,"Clarkport, WI 04641",429.19
+fffe3900320037003100,Misty Sheridan,0.58,5.0,3.0,62.0,Clay,5.4,15.89,No,Yes,No,Roadways,Yes,Wealthy,No,07/17/17,07/17/17,"West Joshua, UT 58283",213.63
+fffe3500350032003000,Stephanie Westerman,0.34,16.0,7.0,3360.0,Bronze,8.16,10.86,No,No,Yes,Roadways,No,Working Class,Yes,05/05/18,05/05/18,DPO AA 51350,246.23
+fffe3900350030003600,Jennie Siller,0.03,29.0,14.0,5376.0,Clay,6.41,27.18,No,No,Yes,Waterways,Yes,Working Class,No,09/27/18,09/27/18,"Heatherview, IL 49099",209.12
+fffe3700340037003400,Pedro Lewis,0.56,27.0,11.0,24913.0,Brass,22.62,65.51,Yes,Yes,No,Airways,No,Wealthy,No,11/29/17,12/03/17,"West Danielmouth, WV 37960",1422.25
+fffe3800370039003200,Gerard Morales,0.23,20.0,11.0,2573.0,Clay,3.68,15.49,No,No,Yes,Airways,Yes,Working Class,No,09/25/17,09/23/17,"Brownville, NJ 35672",226.0
+fffe3600380037003500,Karen Willson,0.96,36.0,12.0,823830.0,Marble,4789.5,79.45,No,No,Yes,Roadways,Yes,Working Class,No,07/17/18,07/17/18,"Brittneyshire, RI 19309",71414.42
+fffe3300340031003600,Jane Martorello,0.68,4.0,4.0,13.0,Aluminium,5.57,18.32,Yes,Yes,Yes,Airways,No,Wealthy,No,06/18/15,06/21/15,"Lake Colton, OH 06212",258.9
+fffe3900300036003100,Lucy Boisen,0.65,37.0,14.0,958.0,Wood,4.41,13.54,Yes,No,No,Waterways,No,Working Class,No,02/13/16,02/17/16,"Port Nicole, TN 52637",291.34
+fffe3800320036003100,Gary Berry,0.09,13.0,7.0,157.0,Wood,4.4,14.83,No,No,Yes,Roadways,No,Working Class,No,01/24/18,01/23/18,"Martinmouth, MI 71851",120.93
+fffe3300310038003600,Lawrence Ferrufino,0.37,14.0,7.0,49.0,Wood,6.66,16.41,No,No,No,Waterways,No,Working Class,No,07/04/15,07/04/15,"North Jennifer, VA 05646",170.48
+fffe3800310037003200,Margaret Reyes,0.68,13.0,8.0,2915.0,Bronze,9.0,19.37,No,No,Yes,Roadways,No,Working Class,No,06/19/19,06/17/19,"Port Barbara, LA 53157",961.9
+fffe3300320032003100,Lynne Allen,0.39,38.0,22.0,1004.0,Wood,5.57,22.88,No,No,Yes,Roadways,No,Working Class,No,05/31/19,06/01/19,"Port Lisastad, GA 84071",316.45
+fffe3700370035003400,Kimberly Weathers,0.73,9.0,4.0,434.0,Brass,6.02,18.29,No,Yes,No,Roadways,No,Wealthy,No,12/11/18,12/07/18,"Jefferyside, TX 63823",453.28
+fffe3700320032003500,Edward Higgins,0.84,33.0,24.0,4571789.0,Marble,42745.36,45.24,No,Yes,No,Roadways,No,Wealthy,No,06/16/16,06/15/16,"West James, LA 20750",1089125.7
+fffe3400390037003900,Etsuko Banks,0.11,16.0,8.0,286.0,Wood,3.0,11.92,No,No,No,Roadways,No,Wealthy,No,06/15/19,06/11/19,"Amyborough, IN 42408",119.3
+fffe3600380035003800,Laura Veltri,0.33,10.0,5.0,180.0,Aluminium,4.17,15.61,No,No,No,Roadways,No,Wealthy,Yes,07/11/19,07/11/19,"Aliciaville, MD 83298",166.91
+fffe3900310036003300,Justin Jackson,0.08,15.0,7.0,783.0,Clay,4.13,21.46,No,No,Yes,Roadways,Yes,Working Class,No,03/11/15,03/11/15,"Tarabury, RI 12944",166.67
+fffe3700320039003300,Sharon Davis,0.81,17.0,7.0,4892.0,Bronze,17.7,15.6,No,No,Yes,Roadways,No,Working Class,Yes,01/21/19,01/21/19,"Lake Emilyton, SD 85803",456.02
+fffe3700370032003100,Jill Garibay,0.56,40.0,10.0,1255942.0,Marble,3556.59,36.01,No,Yes,No,Airways,Yes,Working Class,No,09/06/15,09/02/15,"Juliaborough, MO 03248",32689.94
+fffe3700320033003600,Irene Mcnabb,0.34,15.0,7.0,53131.0,Marble,173.23,56.82,Yes,No,Yes,Airways,No,Working Class,No,07/12/16,07/10/16,"Port Jeffreyshire, GA 34064",889.16
+fffe3100330031003600,Enrique Andre,0.6,23.0,14.0,19812.0,Bronze,112.5,53.36,Yes,No,No,Waterways,No,Working Class,No,12/28/16,12/24/16,"Salazarmouth, MA 83377",1082.06
+fffe3700370038003600,Roberto Hershenson,0.04,37.0,12.0,1546212.0,Marble,1538.25,31.59,No,No,No,Roadways,Yes,Wealthy,Yes,01/04/18,01/07/18,DPO AP 69439,2745.18
+fffe3900300038003800,Eugene Baer,0.65,10.0,5.0,1468.0,Brass,6.29,22.94,No,Yes,Yes,Roadways,No,Working Class,No,04/27/15,04/28/15,APO AA 27147,419.73
+fffe3900390039003400,Gordon Luna,0.93,4.0,4.0,60.0,Aluminium,6.39,24.05,No,No,No,Airways,No,Working Class,No,11/29/15,11/30/15,"Murphyfort, WA 07883",482.69
+fffe3700360033003300,Sam Holmes,0.03,43.0,18.0,13423877.0,Stone,21116.68,51.05,No,No,Yes,Roadways,No,Working Class,Yes,02/05/15,02/04/15,"Lake John, ME 08459",51268.3
+fffe3800370036003200,Lynne Fields,0.32,16.0,7.0,180.0,Wood,6.73,16.07,Yes,No,No,Waterways,No,Working Class,No,09/27/17,09/30/17,"Port Steveton, NH 91914",153.05
+fffe3900330033003900,Susan Engle,0.67,34.0,13.0,3151086.0,Stone,10624.83,44.95,Yes,No,Yes,Waterways,No,Working Class,No,03/27/17,03/28/17,"North Sara, WV 25982",-24383.58
+fffe3900370037003200,Rebekah Wright,0.15,35.0,24.0,828.0,Wood,5.82,11.1,Yes,No,No,Waterways,No,Working Class,No,07/26/18,07/30/18,"Browningchester, TN 02509",101.96
+fffe370030003200,Mary Amore,0.65,14.0,6.0,16635.0,Stone,28.95,71.8,No,Yes,No,Airways,No,Wealthy,No,08/31/15,09/01/15,"East Kristen, NC 92726",1123.63
+fffe310036003600,Florence William,0.45,68.0,22.0,10078717.0,Marble,51123.73,72.61,No,Yes,Yes,Roadways,Yes,Working Class,No,03/26/17,03/26/17,"South Douglas, NC 86295",789535.43
+fffe3800380033003100,Vera Saucedo,0.26,48.0,28.0,133430.0,Bronze,609.74,60.06,Yes,No,Yes,Waterways,No,Working Class,No,01/12/15,01/11/15,"North Andre, MS 44266",2910.83
+fffe3700320037003500,Trina Burke,0.42,29.0,17.0,1612572.0,Marble,3635.58,83.87,No,No,No,Roadways,No,Working Class,No,07/03/17,07/06/17,"West Nancy, MS 58913",9613.39
+fffe3100320031003800,Olga Gaudet,0.71,52.0,15.0,8227855.0,Stone,61427.23,30.86,Yes,No,No,Waterways,No,Working Class,No,03/02/18,03/05/18,DPO AA 74081,968437.07
+fffe3700350034003400,Mildred Gray,0.33,15.0,8.0,2715.0,Bronze,11.51,16.57,Yes,No,No,Airways,No,Wealthy,No,04/17/17,04/17/17,"South Douglas, UT 17153",-236.37
+fffe3600380033003800,Cynthia Viteri,0.97,30.0,9.0,316.0,Wood,3.59,17.54,No,No,Yes,Roadways,No,Working Class,No,03/05/15,03/05/15,APO AA 87305,831.52
+fffe3800320030003900,Martin Aiello,0.85,34.0,28.0,95208.0,Bronze,701.08,93.88,Yes,Yes,Yes,Airways,No,Working Class,No,03/07/17,03/07/17,"Rachelport, OK 47543",60552.92
+fffe3700350035003400,Lucille Hopkins,0.44,35.0,13.0,18824.0,Bronze,79.01,97.81,No,No,No,Waterways,No,Working Class,No,07/13/16,07/14/16,"Chapmanfurt, AZ 72351",1473.54
+fffe3700330035003200,Colin Hopkins,0.91,6.0,4.0,2718.0,Marble,30.13,21.54,Yes,Yes,No,Airways,No,Wealthy,No,03/02/19,03/05/19,"Morgantown, NC 23658",631.84
+fffe3300330030003000,Candice Poulin,0.94,24.0,12.0,591.0,Wood,5.18,17.95,No,No,No,Roadways,No,Working Class,No,03/05/15,03/05/15,"South Olivia, ME 51636",732.02
+fffe3300350031003100,Latanya Harrington,0.18,24.0,11.0,19745.0,Brass,21.05,94.09,Yes,No,No,Roadways,No,Working Class,Yes,07/04/19,07/04/19,"West Jenniferborough, AL 20769",726.66
+fffe3900320034003900,Yolanda Colletti,0.86,16.0,6.0,1918.0,Bronze,17.83,23.41,No,Yes,No,Airways,No,Working Class,No,04/01/15,03/31/15,"New Laura, TN 19483",572.54
+fffe3800380034003000,Christopher Long,0.8,56.0,22.0,7791.0,Clay,30.99,69.1,Yes,Yes,No,Airways,Yes,Working Class,No,12/01/16,12/05/16,"South Daniel, WY 75133",3744.9
+fffe3900370033003500,Beulah Thomas,0.3,16.0,7.0,3187.0,Bronze,7.89,18.6,No,No,Yes,Waterways,No,Working Class,No,07/31/15,07/31/15,"Allenbury, CO 16019",231.4
+fffe3600360031003800,Mack Williams,0.77,6.0,5.0,62.0,Wood,4.41,24.17,No,No,No,Roadways,No,Working Class,No,02/13/17,02/10/17,"North Janethaven, NV 11681",308.02
+fffe3300310033003300,Gloria Sawyers,0.25,40.0,12.0,2109.0,Aluminium,4.77,24.76,No,No,Yes,Roadways,No,Working Class,No,02/17/18,02/15/18,"Davidchester, OK 70436",259.89
+fffe3700340030003700,Sharon Miller,0.57,31.0,16.0,63990.0,Brass,219.6,44.1,Yes,No,Yes,Waterways,No,Working Class,No,06/11/18,06/07/18,"North Brandonport, ME 52386",-1562.12
+fffe3500310030003600,Yvette Swindle,0.34,29.0,18.0,3955.0,Aluminium,19.03,13.0,No,No,Yes,Roadways,No,Working Class,Yes,02/12/18,02/11/18,"Wellschester, DE 72847",251.02
+fffe3900370034003600,Charles Bell,0.78,16.0,7.0,267.0,Aluminium,3.19,11.17,Yes,No,Yes,Waterways,No,Working Class,No,12/23/18,12/20/18,APO AE 76540,-302.53
+fffe3400370036003300,Delores Arnold,0.05,13.0,7.0,107.0,Wood,3.58,24.2,No,No,No,Waterways,No,Working Class,No,09/09/17,09/11/17,"Hatfieldborough, AL 41781",125.41
+fffe3800350032003300,Jeffery Krulik,0.5,26.0,9.0,1193.0,Aluminium,6.83,24.87,Yes,No,No,Waterways,No,Working Class,No,11/08/17,11/08/17,"Aprilside, WA 12540",349.03
+fffe3900320034003000,Nicholas Morgan,0.95,33.0,16.0,3392859.0,Stone,23198.8,52.0,Yes,No,No,Waterways,No,Working Class,Yes,08/17/15,08/13/15,"Montoyaton, IL 25251",-95657.56
+fffe3800390035003800,Rebecca Ramsey,0.18,21.0,8.0,96472.0,Marble,181.77,57.08,Yes,Yes,No,Airways,No,Working Class,No,04/12/16,04/16/16,FPO AE 61812,743.22
+fffe3100320032003600,Kathy Johnson,0.41,38.0,25.0,11170102.0,Stone,83638.55,57.19,No,No,Yes,Roadways,No,Working Class,No,07/18/19,07/21/19,"Lake Courtneybury, DC 82588",846670.02
+fffe3100350033003100,Angelica Thompson,0.25,25.0,6.0,80896.0,Marble,150.25,54.99,No,No,No,Roadways,No,Working Class,No,01/24/16,01/24/16,"East Victoriaton, GA 65011",625.26
+fffe340039003200,Christina Vossen,0.62,24.0,11.0,1270.0,Aluminium,8.19,11.67,No,No,No,Airways,No,Working Class,No,01/30/16,01/28/16,"Ronaldton, UT 19739",-452.77
+fffe3900370032003700,Walter Marcus,0.5,30.0,20.0,870.0,Wood,6.41,16.11,Yes,Yes,Yes,Airways,No,Wealthy,No,08/02/17,07/31/17,APO AP 83164,-475.08
+fffe3800370037003600,Debra Griggs,0.99,48.0,21.0,27317777.0,Stone,38586.85,34.45,No,No,Yes,Roadways,No,Working Class,No,09/14/16,09/14/16,"Elainebury, TN 93338",499032.4
+fffe3700300031003100,Leonard Whalen,0.04,24.0,10.0,342.0,Wood,3.56,11.48,No,Yes,No,Roadways,No,Working Class,No,04/24/16,04/28/16,"Piercefurt, NJ 60074",87.56
+fffe3800360035003600,Lawrence Ament,0.87,3.0,2.0,118.0,Stone,6.45,10.35,No,No,No,Waterways,No,Wealthy,No,02/09/15,02/09/15,"Smithchester, CT 40764",408.9
+fffe3900330037003500,Ngan Culver,0.02,21.0,11.0,14181.0,Brass,23.53,37.36,No,No,Yes,Roadways,No,Wealthy,No,12/01/18,12/02/18,"Port Eduardoshire, NJ 70809",301.34
+fffe3100380031003700,Sherman Bowers,0.47,11.0,7.0,1318.0,Bronze,4.15,13.13,No,No,No,Roadways,No,Working Class,No,11/22/17,11/23/17,APO AP 79851,-179.33
+fffe3500380034003700,Pauline Ritter,0.74,16.0,8.0,724.0,Aluminium,6.54,16.13,No,Yes,Yes,Airways,No,Wealthy,No,03/29/18,03/27/18,"East Joeland, MN 28464",573.76
+fffe3700340034003600,Heather Smith,0.96,10.0,4.0,254.0,Clay,6.16,16.25,No,No,Yes,Waterways,Yes,Working Class,No,11/02/17,11/03/17,FPO AA 98037,-615.1
+fffe3900360034003200,Guy Sumpter,0.22,27.0,13.0,24822.0,Bronze,90.71,82.5,No,No,No,Airways,No,Working Class,No,05/17/15,05/13/15,"Annton, AR 12577",1000.15
+fffe340031003900,Richard Reid,0.64,21.0,7.0,952.0,Clay,6.22,18.46,No,Yes,No,Airways,Yes,Working Class,No,11/20/17,11/19/17,"Joelmouth, TN 87545",448.72
+fffe3700320034003600,Michael Southwood,0.16,3.0,3.0,253.0,Marble,3.37,23.8,No,Yes,No,Airways,No,Working Class,No,12/24/15,12/28/15,"Byrdborough, NM 26945",182.76
+fffe3200390035003200,Esperanza Alzate,0.32,12.0,7.0,342.0,Aluminium,3.97,12.14,No,No,Yes,Airways,No,Working Class,Yes,09/22/16,09/21/16,"Loganville, WV 34057",157.65
+fffe3600330036003500,Bruce Berg,0.46,15.0,7.0,223.0,Wood,6.63,11.24,Yes,No,Yes,Waterways,No,Working Class,Yes,12/02/18,12/06/18,"Davidsonfurt, WY 09975",190.53
+fffe3400320037003100,Vicki Duncan,0.66,10.0,4.0,266.0,Clay,3.77,14.95,Yes,No,No,Waterways,Yes,Working Class,No,05/23/18,05/22/18,"New Michaelstad, ME 54288",-218.64
+fffe3800320036003700,Jessie Durden,0.25,33.0,28.0,88862.0,Bronze,43.68,56.89,Yes,Yes,Yes,Airways,No,Wealthy,No,08/25/16,08/29/16,"New Brandiside, WA 39105",1459.74
+fffe370036003400,Mark Domhoff,0.63,25.0,8.0,1840.0,Clay,10.09,13.2,No,No,Yes,Roadways,Yes,Wealthy,No,03/07/17,03/08/17,"Joside, IL 26484",369.21
+fffe3800390030003100,Carla Hickey,0.52,36.0,12.0,6614.0,Clay,26.26,54.24,Yes,No,No,Waterways,Yes,Working Class,No,06/05/16,06/06/16,"Port Vanessaview, MI 93275",814.31
+fffe3700390031003100,Cristina Obrien,0.93,10.0,5.0,98.0,Clay,4.2,16.28,No,No,No,Roadways,Yes,Working Class,Yes,06/21/15,06/22/15,"Johnmouth, SD 80611",359.33
+fffe3200340035003200,Theresa Berg,0.59,19.0,8.0,12241.0,Brass,57.11,43.57,No,Yes,No,Airways,No,Working Class,Yes,04/06/17,04/03/17,"Port Kenneth, MA 14835",1337.01
+fffe3400360031003000,Samantha Witt,0.02,20.0,9.0,5386.0,Bronze,5.82,57.61,Yes,Yes,No,Airways,No,Working Class,No,04/15/15,04/15/15,"Torresberg, NH 40066",314.17
+fffe3600360038003700,Jonah Ransom,0.86,33.0,18.0,6256706.0,Stone,34541.97,52.97,No,No,No,Roadways,No,Working Class,No,02/16/17,02/18/17,"Lauraside, IN 17574",183037.38
+fffe3600380039003200,Louise Harris,0.9,51.0,15.0,140501.0,Brass,428.91,87.56,No,No,Yes,Airways,No,Working Class,No,12/03/15,12/05/15,"South Anthonyborough, VA 66029",11828.18
+fffe3500360031003400,Gary Bingham,0.98,22.0,12.0,3990.0,Clay,6.99,10.96,Yes,No,No,Waterways,Yes,Working Class,No,03/11/19,03/12/19,"New Brandi, AL 88573",798.85
+fffe3700350030003000,Bruce Hubbert,0.5,9.0,5.0,4973.0,Marble,3.87,18.67,No,No,No,Waterways,No,Wealthy,No,04/03/15,04/05/15,"Adamland, MD 94112",255.86
+fffe3700390031003000,Chanell Smith,0.54,21.0,8.0,6045.0,Brass,11.91,54.73,No,No,No,Waterways,No,Working Class,No,07/18/19,07/20/19,FPO AA 26117,584.07
+fffe3900300030003600,Jerome Jacklin,0.02,28.0,14.0,1164.0,Aluminium,5.88,10.23,No,Yes,No,Roadways,No,Wealthy,No,08/06/17,08/10/17,"Natalieport, MI 66173",107.39
+fffe3600360035003100,James Nguyen,0.12,15.0,6.0,1049.0,Brass,4.91,14.65,Yes,No,No,Waterways,No,Working Class,No,12/20/17,12/21/17,"North Anthonyton, IL 17957",-144.9
+fffe3800300031003700,Melvin Edmunds,0.15,18.0,12.0,753.0,Aluminium,4.41,19.31,No,No,No,Airways,No,Working Class,No,06/14/18,06/14/18,APO AA 22924,-146.3
+fffe3200310039003000,Barbara Martinez,0.95,6.0,5.0,423.0,Brass,3.34,14.3,Yes,No,No,Waterways,No,Working Class,No,02/08/18,02/05/18,"Robersontown, KS 12053",296.76
+fffe3200300033003400,Heather Sasso,0.68,18.0,7.0,291.0,Aluminium,6.77,24.08,No,Yes,Yes,Airways,No,Working Class,Yes,11/10/15,11/14/15,"Karenside, SC 65069",481.92
+fffe3700340039003900,Darryl Hirko,0.08,17.0,11.0,175973.0,Marble,325.62,70.28,No,Yes,Yes,Airways,No,Working Class,No,06/25/16,06/28/16,"Lucasville, TN 40601",1095.95
+fffe3200360037003700,Thersa Young,0.59,12.0,8.0,517.0,Aluminium,6.7,24.02,No,No,No,Airways,No,Working Class,No,01/12/17,01/11/17,"Vazquezton, OR 99629",344.11
+fffe3700320031003300,Clayton Dawson,0.08,24.0,10.0,1429.0,Clay,6.52,19.99,No,No,No,Waterways,Yes,Wealthy,No,08/31/16,08/29/16,APO AE 38295,177.42
+fffe3800310039003000,Darlene Cuthbertson,0.6,21.0,12.0,281820.0,Marble,1127.29,30.32,No,No,No,Roadways,No,Working Class,No,06/05/15,06/02/15,"South Jessicafurt, AZ 69557",2680.43
+fffe3800300038003700,Lawrence Slaughter,0.77,10.0,5.0,1026.0,Brass,3.99,14.01,Yes,Yes,Yes,Airways,No,Wealthy,No,06/09/19,06/07/19,"Donnachester, AR 10285",416.01
+fffe330036003300,Marjorie Driskell,0.82,34.0,19.0,91291.0,Brass,814.18,37.2,Yes,No,No,Waterways,No,Wealthy,Yes,01/08/18,01/07/18,"Wesleyport, GA 67535",76751.43
+fffe3700330035003600,Emerson England,0.12,39.0,20.0,3755.0,Aluminium,11.62,14.7,No,Yes,No,Airways,No,Working Class,No,01/06/16,01/06/16,"South Christinastad, DE 78275",178.08
+fffe3700360030003300,Edward Gioia,0.62,29.0,9.0,583676.0,Stone,383.13,48.71,Yes,No,Yes,Airways,No,Wealthy,No,11/28/18,11/29/18,"Woodsfurt, IN 44991",7669.75
+fffe3400370038003600,Robert Parsons,0.22,22.0,8.0,137531.0,Marble,412.82,80.33,No,No,Yes,Airways,No,Wealthy,No,01/15/16,01/14/16,"New Michelletown, NM 62457",1875.01
+fffe3100370034003400,Cheryl Benton,0.51,15.0,8.0,2999.0,Bronze,6.0,10.77,Yes,No,Yes,Waterways,No,Working Class,No,11/16/17,11/12/17,"East Jenniferside, MA 82802",293.56
+fffe3600380036003400,Andrew Butler,0.51,46.0,10.0,1407706.0,Marble,3272.87,85.37,Yes,No,No,Airways,Yes,Working Class,No,06/26/18,06/29/18,APO AP 12534,15869.13
+fffe3500330035003900,Alvin Gay,0.37,21.0,6.0,207.0,Wood,4.42,11.4,No,Yes,No,Airways,No,Working Class,No,11/16/18,11/16/18,"South Dianeberg, CA 15384",141.84
+fffe3100320031003900,Sara Rego,0.29,9.0,5.0,973.0,Brass,4.45,13.46,Yes,Yes,Yes,Airways,No,Wealthy,No,07/02/19,07/06/19,"New Courtney, ID 13001",207.73
+fffe3600350035003600,Harold Johnson,0.26,37.0,13.0,4462.0,Clay,10.71,12.95,No,No,No,Roadways,Yes,Working Class,Yes,04/06/15,04/10/15,"East Jefferyshire, NH 84645",187.57
+fffe3200330035003700,Lois Schwab,0.47,20.0,6.0,2804.0,Bronze,4.21,14.39,No,No,No,Roadways,No,Working Class,No,04/04/19,04/04/19,"Isaacfurt, IL 79646",211.12
+fffe3400380037003400,Wanda Warren,0.58,29.0,20.0,1210684.0,Marble,9703.37,35.42,No,Yes,Yes,Roadways,No,Working Class,No,02/22/16,02/24/16,"South Kevin, VT 84493",627732.45
+fffe3900310035003000,Scott Lisbey,0.8,6.0,5.0,120.0,Aluminium,3.72,17.74,Yes,Yes,No,Airways,No,Working Class,Yes,03/13/18,03/13/18,"Hintonland, WV 78573",278.69
+fffe3100380030003800,Dawn Nakasone,0.86,20.0,12.0,397.0,Wood,5.1,19.91,No,No,No,Waterways,No,Working Class,No,08/31/17,08/27/17,"East Keithmouth, ME 82374",647.1
+fffe3300390032003500,Jacob Calvello,0.14,15.0,8.0,326.0,Aluminium,6.54,22.83,No,No,Yes,Roadways,No,Working Class,No,04/24/18,04/20/18,"Natalieburgh, NY 41609",188.48
+fffe3700390031003800,Michelle Mezick,0.82,15.0,7.0,370.0,Aluminium,6.47,16.36,No,No,No,Waterways,No,Working Class,No,03/25/18,03/29/18,APO AE 73250,414.94
+fffe3800320039003300,Charles Turner,0.08,15.0,7.0,6398.0,Brass,3.52,29.15,Yes,No,No,Waterways,No,Working Class,No,07/24/15,07/28/15,"North Nicole, PA 08318",182.68
+fffe3600390034003800,Armand Cooper,0.25,10.0,5.0,1124.0,Bronze,6.6,18.77,No,No,No,Roadways,No,Working Class,No,08/11/17,08/11/17,"Kennethmouth, WI 08847",176.1
+fffe3900380030003100,Lena Davis,0.12,16.0,7.0,5734.0,Brass,8.62,88.32,Yes,Yes,Yes,Airways,No,Working Class,No,12/10/17,12/06/17,"Alexandraview, MI 11979",604.86
+fffe3700390033003500,Christopher Cartwright,0.13,16.0,7.0,3723.0,Brass,11.97,18.72,No,No,No,Roadways,No,Working Class,No,09/10/17,09/14/17,"Dustinburgh, ID 44787",158.45
+fffe3900350039003900,Johnny Evers,0.99,30.0,8.0,13701.0,Bronze,54.74,39.44,No,No,No,Airways,No,Working Class,No,09/04/16,09/04/16,"East Justinton, ID 37922",3075.81
+fffe3700390037003300,Juan Saylor,0.37,18.0,9.0,233674.0,Stone,1011.11,90.95,No,Yes,No,Roadways,No,Wealthy,No,10/12/15,10/08/15,"Lake Toddstad, AR 03269",3538.17
+fffe3800360039003200,Sheila Johnson,0.63,30.0,14.0,3235.0,Clay,15.02,10.29,Yes,No,Yes,Waterways,Yes,Working Class,No,04/18/16,04/14/16,"Reidville, MI 29244",386.95
+fffe3600380035003200,Rosalinda Amato,0.26,23.0,14.0,1614.0,Aluminium,5.06,23.11,No,Yes,No,Roadways,No,Working Class,No,12/16/16,12/17/16,"Vasqueztown, AR 71139",207.36
+fffe3600330036003000,Norma Lambert,0.81,26.0,19.0,2564.0,Aluminium,9.51,24.32,No,No,No,Waterways,No,Wealthy,No,06/07/18,06/04/18,"Perrytown, WI 50944",2117.42
+fffe3700330034003100,Beverly Miller,0.53,21.0,13.0,432.0,Wood,4.16,11.85,No,No,Yes,Airways,No,Working Class,Yes,06/04/19,06/07/19,DPO AP 07251,219.27
+fffe320030003500,William Mackley,0.79,40.0,18.0,1275.0,Wood,7.93,16.64,No,Yes,No,Roadways,No,Wealthy,No,05/15/16,05/18/16,"Lake Joel, ME 41873",957.56
+fffe3700380037003600,Kathryn Pearce,0.49,13.0,6.0,7270.0,Marble,19.17,79.65,No,No,No,Waterways,No,Working Class,No,09/26/15,09/25/15,"Melendeztown, NC 39493",-705.56
+fffe3800370035003600,Charles Bowling,0.77,13.0,7.0,27003.0,Marble,61.98,61.54,No,No,Yes,Roadways,No,Working Class,Yes,08/08/17,08/07/17,"West Dawnmouth, MD 30975",2599.07
+fffe3200390035003900,Jean Ferguson,0.41,31.0,15.0,6532.0,Clay,5.56,82.17,Yes,Yes,No,Airways,Yes,Working Class,No,06/21/19,06/18/19,"Lake Amberborough, TN 04509",1151.3
+fffe3500330033003500,John Courtney,0.82,14.0,7.0,5065.0,Brass,25.33,27.23,No,No,Yes,Roadways,No,Working Class,No,04/01/16,03/30/16,"Andrewsmouth, HI 70193",670.98
+fffe3700340039003800,Jeffrey Connors,0.7,10.0,4.0,10608.0,Stone,66.19,40.13,No,No,No,Roadways,No,Working Class,Yes,05/31/18,06/03/18,"Fergusonstad, IN 33723",1430.3
+fffe3900330039003300,Amanda Vega,0.73,23.0,11.0,2847.0,Clay,18.4,24.65,No,Yes,Yes,Roadways,Yes,Wealthy,Yes,04/01/15,03/28/15,"Sarahshire, MA 51708",962.13
+fffe3500330030003700,Elsa Cervantes,0.57,14.0,8.0,2470.0,Bronze,18.1,11.23,No,No,Yes,Roadways,No,Wealthy,No,11/03/17,11/07/17,"Port Cynthia, MA 58046",237.73
+fffe3200330038003800,Martha Ullery,0.01,3.0,2.0,107.0,Stone,6.28,23.25,No,No,No,Airways,No,Wealthy,No,09/07/17,09/07/17,"East Ariana, MD 70285",224.52
+fffe3800380033003600,Kristi Maurer,0.62,60.0,35.0,21012.0,Aluminium,83.06,73.74,No,No,No,Airways,No,Working Class,No,08/22/18,08/24/18,"West Wanda, DE 39174",3929.97
+fffe3600350038003700,Deloris Howell,0.61,33.0,9.0,736.0,Wood,4.68,16.13,No,No,No,Roadways,No,Working Class,Yes,11/21/15,11/19/15,APO AE 77820,327.09
+fffe3500300036003500,Craig Rudnick,0.5,15.0,6.0,545.0,Clay,6.27,11.91,No,No,No,Airways,Yes,Working Class,No,12/25/16,12/22/16,"East Tinamouth, MD 10218",229.89
+fffe3700360030003000,Cristina Putman,0.22,23.0,13.0,345.0,Wood,6.23,22.3,No,Yes,Yes,Airways,No,Wealthy,No,10/21/16,10/21/16,"West Katie, WI 12237",-225.61
+fffe3800300034003500,Mary Holcomb,0.49,13.0,8.0,19320.0,Marble,39.53,32.55,No,No,No,Waterways,No,Working Class,No,06/06/18,06/02/18,"Adrianborough, OK 89393",488.25
+fffe370031003700,Aldo Cunha,0.86,18.0,8.0,134.0,Wood,5.1,11.81,No,No,Yes,Waterways,No,Working Class,Yes,11/09/15,11/12/15,"Osbornemouth, HI 50003",404.96
+fffe3800390036003000,Clara Johnson,0.21,4.0,3.0,302.0,Marble,5.3,24.29,No,Yes,No,Roadways,No,Working Class,No,07/11/19,07/14/19,"Lake Kellyborough, IL 56428",200.19
+fffe3800330038003900,David Edlin,0.46,33.0,11.0,8437.0,Bronze,14.07,58.69,No,Yes,Yes,Roadways,No,Working Class,No,03/05/15,03/02/15,"Wolfebury, AZ 35384",848.53
+fffe3900310039003900,Geri Terrell,0.22,42.0,16.0,11156.0,Clay,28.39,44.96,No,No,No,Roadways,Yes,Working Class,No,11/25/17,11/27/17,"Vazquezburgh, HI 16817",404.05
+fffe3700300038003100,Catherine Smith,0.25,16.0,6.0,532.0,Aluminium,4.57,20.42,Yes,No,No,Airways,No,Working Class,No,05/02/19,04/30/19,"Port Jaime, NJ 71856",189.6
+fffe3700390038003100,Ronald Ellis,0.32,10.0,4.0,10742.0,Stone,16.67,32.23,No,Yes,No,Roadways,No,Wealthy,No,01/13/19,01/15/19,"Burnsberg, MT 91287",368.87
+fffe3700360033003400,Jackson Gallemore,0.46,19.0,7.0,8167.0,Brass,17.76,91.02,Yes,No,No,Roadways,No,Wealthy,No,02/07/16,02/08/16,"Alvarezborough, LA 86944",1022.07
+fffe3400310039003400,Anita Castellanos,0.35,30.0,9.0,2837.0,Clay,6.18,13.67,Yes,No,No,Waterways,Yes,Working Class,No,01/12/16,01/12/16,"Jenniferland, VA 84524",212.69
+fffe3400350039003000,Mary Thibodeau,0.05,47.0,37.0,2378.0,Wood,3.38,14.43,Yes,Yes,No,Airways,No,Wealthy,No,05/05/18,05/02/18,"Elizabethton, NH 42480",173.97
+fffe3800340036003500,Shawn Stroth,0.63,31.0,16.0,1297749.0,Marble,4695.06,38.56,No,Yes,No,Airways,No,Wealthy,No,06/17/15,06/16/15,"Jacobbury, IN 44145",55860.52
+fffe3600380037003000,Robert Wadsworth,0.93,28.0,10.0,310032.0,Marble,782.16,66.82,Yes,No,No,Waterways,No,Working Class,No,11/04/17,11/08/17,"Ronaldfurt, SC 66173",50231.01
+fffe3900320032003900,Georgia Crenshaw,0.41,28.0,17.0,534984.0,Marble,199.52,90.64,No,No,Yes,Roadways,No,Working Class,No,07/07/15,07/05/15,"Meyerville, WI 72316",2160.68
+fffe3100360034003400,Kimberly Bell,0.47,11.0,6.0,22371.0,Stone,11.83,67.02,No,Yes,Yes,Roadways,No,Working Class,No,11/21/17,11/17/17,"Adamsfurt, AL 84058",805.4
+fffe3900320037003500,Theresa Marlor,0.84,18.0,8.0,263482.0,Stone,1916.76,58.03,No,Yes,Yes,Airways,No,Wealthy,No,09/03/15,09/03/15,"New Brittneyfurt, MO 89424",8117.54
+fffe3800330039003700,Latoya Romero,0.15,18.0,6.0,84383.0,Stone,201.25,47.23,Yes,No,No,Airways,No,Working Class,No,04/22/17,04/18/17,APO AE 36386,984.07
+fffe3800350035003200,Jessica Gage,0.13,31.0,17.0,7076.0,Clay,7.65,30.87,No,Yes,No,Airways,Yes,Wealthy,No,05/06/16,05/05/16,"Brittneyland, IA 82810",343.12
+fffe3300300031003600,Robert Bobeck,0.35,25.0,9.0,1754.0,Clay,3.87,19.54,Yes,No,No,Waterways,Yes,Working Class,No,06/07/17,06/05/17,"Michaelmouth, NE 73981",234.16
+fffe3800370039003500,Donald Haubert,0.37,24.0,10.0,1231.0,Aluminium,3.36,16.7,No,No,Yes,Roadways,No,Working Class,Yes,11/17/16,11/17/16,"Lake Heather, OR 76351",220.62
+fffe3700370034003300,Don Tavares,0.06,33.0,11.0,796617.0,Stone,1159.26,73.48,Yes,Yes,No,Airways,No,Working Class,No,06/08/18,06/08/18,"Lopezshire, ND 47890",3950.65
+fffe3900300034003400,Tyson Guinn,0.51,19.0,8.0,111448.0,Marble,320.07,35.35,No,No,Yes,Roadways,No,Working Class,No,02/18/15,02/14/15,"East Antoniofurt, CT 99905",1860.88
+fffe3700310036003100,Joan Weber,0.78,13.0,6.0,448.0,Clay,4.05,18.21,No,No,No,Roadways,Yes,Working Class,No,11/06/18,11/02/18,FPO AP 13440,374.75
+fffe3800370033003900,Willie Green,0.02,19.0,7.0,100122.0,Marble,133.66,59.67,Yes,No,No,Waterways,No,Working Class,No,08/27/16,08/24/16,"Sergiochester, FL 77250",479.98
+fffe3200310032003900,Luella Spurlin,0.2,21.0,7.0,481.0,Aluminium,6.94,17.75,No,No,Yes,Roadways,No,Working Class,No,07/08/19,07/07/19,"Port Aliciaville, SD 59109",173.16
+fffe3900330033003000,Michael Robinson,0.3,19.0,12.0,202903.0,Marble,512.35,79.91,No,No,Yes,Airways,No,Wealthy,No,09/07/15,09/04/15,"Lake Dianebury, OR 75125",3107.71
+fffe3900330030003000,Paul Hart,0.91,7.0,4.0,2655.0,Marble,17.33,10.03,No,No,Yes,Roadways,No,Working Class,No,08/29/15,09/01/15,"Joshuastad, NC 89927",266.23
+fffe320033003300,Jean Huerta,0.43,22.0,6.0,1534.0,Bronze,5.15,18.57,No,Yes,Yes,Roadways,No,Wealthy,No,09/14/18,09/11/18,"North Douglaston, WI 81937",339.35
+fffe3800380036003200,Amanda Otto,0.28,5.0,5.0,1794.0,Marble,4.12,15.71,Yes,No,Yes,Airways,No,Working Class,No,09/26/17,09/26/17,APO AE 41288,232.22
+fffe3900340035003800,Mildred Johnston,0.6,15.0,7.0,329.0,Aluminium,5.1,15.44,No,No,No,Roadways,No,Working Class,Yes,04/11/18,04/12/18,"Stewartstad, PA 18312",-248.06
+fffe3500360037003600,Daniel Soto,0.05,32.0,6.0,305949.0,Stone,158.34,89.24,No,No,Yes,Roadways,No,Working Class,No,06/11/16,06/08/16,"New Shannonfurt, NY 31318",960.42
+fffe390030003400,Herbert Bennett,0.05,24.0,8.0,824.0,Aluminium,5.16,18.83,No,No,No,Airways,No,Working Class,No,05/06/16,05/02/16,DPO AE 53625,143.13
+fffe31003100,Lynn Vaughn,0.6,41.0,9.0,995706.0,Marble,1401.65,60.5,No,No,No,Roadways,Yes,Working Class,No,08/23/15,08/23/15,"South Adrianaland, WV 53503",5080.6
+fffe3600360035003300,Emily Fettig,0.77,7.0,4.0,55.0,Wood,4.56,20.16,Yes,Yes,Yes,Airways,No,Wealthy,No,08/15/19,08/16/19,FPO AP 76382,324.82
+fffe3800330034003300,Charles Palos,0.68,52.0,45.0,117927869.0,Stone,382385.67,38.89,No,No,Yes,Airways,No,Working Class,No,03/15/17,03/16/17,"Morrisshire, HI 99807",2416054.67
+fffe3600350039003100,Cindy Smith,0.53,9.0,4.0,144.0,Aluminium,5.42,19.82,No,No,Yes,Waterways,No,Working Class,No,11/10/15,11/09/15,"Benderfort, WV 19745",233.86
+fffe340030003300,Daniel Daugherty,0.37,14.0,8.0,1246.0,Clay,6.37,11.0,No,No,No,Roadways,Yes,Working Class,No,04/10/17,04/09/17,"Judyville, OH 15026",-174.79
+fffe3700390031003200,Yolanda Brickhouse,0.73,22.0,6.0,596.0,Aluminium,5.49,19.38,Yes,No,No,Waterways,No,Working Class,No,03/25/15,03/21/15,"Sharonton, IA 11062",454.15
+fffe3500380032003800,Christina Owings,0.46,29.0,19.0,1443782.0,Marble,6513.92,94.47,Yes,No,No,Roadways,No,Working Class,No,06/03/19,06/03/19,"Michaelport, TN 84827",48714.15
+fffe3900320031003100,Mary Mcgarvey,0.39,40.0,19.0,77407.0,Bronze,357.08,75.09,No,No,No,Roadways,No,Working Class,No,01/16/18,01/16/18,"Lake Danielle, OK 01791",1622.67
+fffe3600370039003500,Nathan Dunn,0.79,20.0,8.0,378113.0,Stone,3401.03,69.15,Yes,No,Yes,Waterways,No,Working Class,No,03/31/17,03/29/17,"Harperfort, AZ 34364",19772.8
+fffe3300390035003100,Anna Grant,0.01,13.0,6.0,804.0,Clay,3.46,13.58,No,No,No,Roadways,Yes,Working Class,No,10/16/16,10/14/16,"Port Robertmouth, DE 40300",121.04
+fffe3700300032003900,Helen Davis,0.58,26.0,6.0,87529.0,Marble,229.97,25.57,No,No,No,Roadways,No,Working Class,No,07/07/15,07/06/15,"New Tracy, AZ 89385",1062.0
+fffe3600390035003200,Charles Garner,0.91,11.0,8.0,1054.0,Clay,7.82,23.68,No,No,Yes,Roadways,Yes,Wealthy,No,02/27/18,02/27/18,"Danaland, SC 74102",1177.01
+fffe3700360030003900,Mark Stover,0.62,22.0,15.0,1835465.0,Stone,15171.32,42.11,No,No,Yes,Roadways,No,Working Class,No,01/22/19,01/19/19,"North Mark, OR 36489",27392.32
+fffe3500390038003500,Casey Bryant,0.79,17.0,6.0,162.0,Wood,3.37,16.76,No,No,No,Waterways,No,Working Class,No,10/21/16,10/23/16,"East Robert, LA 40984",294.4
+fffe3500310034003400,Patricia Garvin,0.8,22.0,6.0,76992.0,Marble,613.8,77.21,Yes,Yes,No,Airways,No,Working Class,No,01/02/15,01/03/15,"Lake Ronnie, MN 51021",19111.03
+fffe39003400,Lorraine Borg,0.52,32.0,21.0,9316.0,Clay,54.46,77.16,Yes,No,Yes,Waterways,Yes,Wealthy,No,01/12/19,01/12/19,"Watersborough, CT 30707",1876.76
+fffe3700340030003100,Antionette Feinberg,0.02,16.0,6.0,2579.0,Brass,6.52,13.95,Yes,No,Yes,Roadways,No,Working Class,Yes,06/04/16,06/02/16,"Lake Kelseyside, NH 23479",210.98
+fffe3800380030003300,Sara Cooper,0.9,34.0,12.0,677.0,Wood,6.18,14.14,Yes,Yes,No,Airways,No,Working Class,No,07/02/16,06/30/16,FPO AP 64795,995.51
+fffe3900350030003800,Gary Thomas,0.38,23.0,9.0,302.0,Wood,3.6,21.46,No,No,No,Waterways,No,Wealthy,Yes,07/29/18,07/27/18,"South Wesley, CT 81021",246.35
+fffe3900300032003200,Heath Patlan,0.94,32.0,12.0,2499.0,Aluminium,6.4,24.08,No,No,Yes,Roadways,No,Working Class,Yes,03/11/18,03/14/18,"New Michele, NM 69546",1424.77
+fffe3500380039003400,Mathew Spence,0.25,16.0,6.0,275.0,Aluminium,6.6,23.27,No,No,Yes,Airways,No,Wealthy,No,11/29/18,11/29/18,"South Heather, NH 96353",219.92
+fffe3600380037003400,Teresa Dion,0.54,20.0,12.0,306918.0,Marble,182.39,71.24,Yes,No,No,Waterways,No,Working Class,No,08/01/18,07/31/18,"Youngfurt, VA 73523",1185.56
+fffe3800350035003500,Consuelo Stanley,0.38,3.0,2.0,90.0,Marble,6.81,24.35,No,No,No,Roadways,No,Working Class,No,12/14/15,12/15/15,"East Teresaburgh, AL 02766",229.84
+fffe3700310031003500,Robert Oddi,0.81,32.0,11.0,2431.0,Clay,7.12,14.39,No,No,No,Roadways,Yes,Working Class,No,07/15/19,07/15/19,"Hayesmouth, AK 84416",801.65
+fffe3900300037003800,Daphne Chapman,0.27,29.0,12.0,1862.0,Aluminium,7.51,13.99,No,No,Yes,Roadways,No,Working Class,No,05/10/17,05/12/17,"Meganland, FL 55674",191.55
+fffe3700380037003700,Lonnie Couture,0.61,3.0,2.0,16.0,Brass,6.16,18.56,No,Yes,Yes,Airways,No,Working Class,Yes,02/05/19,02/02/19,"Port Jimmy, GA 99136",282.55
+fffe3100300034003800,Deborah Garcia,0.35,28.0,11.0,345887.0,Marble,750.35,44.18,No,Yes,Yes,Roadways,No,Working Class,Yes,09/03/16,09/02/16,"West Emilychester, WY 73918",7456.94
+fffe3900310038003700,Jennifer Bradford,0.26,21.0,11.0,10714.0,Bronze,31.61,58.14,Yes,Yes,Yes,Airways,No,Wealthy,No,09/02/17,09/02/17,"New Joshuafurt, CO 57966",674.56
+fffe3800330033003800,Sonya Morris,0.81,10.0,4.0,3643.0,Marble,11.46,11.16,Yes,No,Yes,Airways,No,Working Class,No,10/15/17,10/12/17,"South Justin, IN 18412",-364.59
+fffe3900330034003500,Maria Weiss,0.19,9.0,5.0,1172.0,Brass,5.07,13.57,Yes,Yes,Yes,Airways,No,Wealthy,No,07/24/18,07/27/18,APO AE 79150,203.14
+fffe3800370031003600,Ray Suh,0.52,22.0,13.0,24368.0,Brass,35.8,82.08,No,Yes,No,Roadways,No,Working Class,Yes,05/02/17,05/05/17,"Ramirezton, NH 68910",1207.95
+fffe3400330035003300,Timothy Larue,0.75,19.0,6.0,63088.0,Stone,225.49,67.63,No,No,No,Roadways,No,Working Class,No,11/22/17,11/18/17,APO AP 79660,2065.65
+fffe3700350035003000,James Hammond,0.63,22.0,10.0,169157.0,Stone,1163.93,27.85,Yes,Yes,No,Airways,No,Wealthy,No,01/28/19,01/26/19,"West Kirkchester, MT 76875",5773.85
+fffe3700340030003400,Nicole Martin,0.1,47.0,6.0,286454.0,Stone,610.39,84.54,No,Yes,Yes,Airways,No,Working Class,No,05/03/16,04/30/16,"Philipport, NC 78527",-2589.41
+fffe3700370037003900,David Cooper,0.95,7.0,4.0,77.0,Clay,3.8,16.71,No,Yes,Yes,Airways,Yes,Working Class,Yes,08/19/15,08/19/15,"Shelbymouth, DC 72164",327.34
+fffe3700360037003500,Rose Weeks,0.18,29.0,10.0,440660.0,Marble,1190.13,39.71,No,No,No,Roadways,No,Working Class,No,04/16/17,04/17/17,"Randyport, NC 10367",1641.47
+fffe3600300033003200,Douglas Dillard,0.74,17.0,6.0,1023.0,Clay,3.69,20.91,No,No,No,Waterways,Yes,Working Class,No,12/16/17,12/19/17,"Emilyland, DE 59713",-342.77
+fffe3500370033003100,Ruby Scott,0.36,23.0,6.0,304.0,Wood,6.13,14.44,Yes,Yes,No,Airways,No,Wealthy,No,09/26/15,09/27/15,"Ramirezhaven, CT 74027",208.98
+fffe3900350037003000,James Cox,0.9,45.0,13.0,3030.0,Aluminium,33.56,16.74,No,Yes,No,Roadways,No,Working Class,No,07/09/18,07/06/18,"Thompsonport, TN 42945",1261.26
+fffe3400360030003200,Julio Mcdonough,0.39,27.0,14.0,507.0,Wood,3.8,21.36,No,Yes,Yes,Roadways,No,Working Class,Yes,07/01/19,06/28/19,"Ashleyshire, SC 38498",308.14
+fffe3800360034003000,David Doane,0.61,22.0,8.0,374425.0,Stone,2167.1,71.65,No,Yes,Yes,Airways,No,Wealthy,No,08/25/15,08/27/15,FPO AA 08979,11967.64
+fffe3700300038003800,Monique Kim,0.61,27.0,15.0,2038.0,Aluminium,6.86,15.04,No,No,Yes,Roadways,No,Working Class,No,01/20/18,01/18/18,"Averytown, GA 05290",444.08
+fffe3700320035003100,Lee Patterson,0.5,8.0,4.0,99.0,Clay,3.67,23.08,Yes,No,No,Waterways,Yes,Working Class,No,08/02/16,08/01/16,"Port Rebeccachester, SC 61152",228.17
+fffe3900330039003500,Patricia Johnson,0.08,19.0,16.0,8192.0,Bronze,23.84,33.46,No,No,Yes,Airways,No,Wealthy,No,04/09/18,04/09/18,"West Ryan, NV 64326",309.44
+fffe3300370039003400,Ruth Ulibarri,0.35,28.0,10.0,12131.0,Bronze,53.92,91.42,Yes,Yes,Yes,Airways,No,Wealthy,No,12/07/18,12/06/18,"Port Julie, AZ 67698",1266.29
+fffe3600380032003100,Elsa Braxton,0.6,14.0,6.0,48185.0,Stone,199.54,35.42,Yes,No,Yes,Waterways,No,Wealthy,No,12/03/17,12/05/17,"Meyershaven, NM 68730",808.59
+fffe3700380036003600,Andy Anderson,0.17,41.0,15.0,577.0,Wood,5.65,16.95,No,No,No,Roadways,No,Working Class,No,07/01/15,06/29/15,"Kellyport, FL 91004",145.18
+fffe3900340037003500,Frank Roberts,0.38,26.0,18.0,2581.0,Aluminium,5.95,14.18,No,No,Yes,Airways,No,Wealthy,No,05/28/15,05/27/15,"New Jerry, CA 40059",284.9
+fffe3900340034003100,Holly Doran,0.64,27.0,11.0,137731.0,Marble,293.77,83.08,Yes,Yes,Yes,Airways,No,Working Class,Yes,02/22/17,02/18/17,"Emilybury, IN 95803",3685.38
+fffe3700310033003200,Bernard Carpentieri,0.6,10.0,4.0,7743.0,Stone,30.66,30.65,Yes,No,Yes,Waterways,No,Wealthy,No,07/12/15,07/13/15,FPO AP 91634,565.39
+fffe3600360033003000,Elma Curtsinger,0.73,3.0,3.0,31.0,Clay,6.96,12.06,Yes,Yes,No,Airways,Yes,Wealthy,Yes,10/29/17,10/26/17,"New Carolynhaven, ID 42930",347.26
+fffe3800300030003200,Ernest Ewing,0.96,32.0,15.0,1641728.0,Stone,3093.07,94.31,No,No,No,Roadways,No,Working Class,No,07/16/16,07/12/16,DPO AE 13012,35389.19
+fffe3900360032003100,Harry Lysiak,0.38,8.0,5.0,11611.0,Stone,11.38,34.32,No,Yes,No,Airways,No,Wealthy,Yes,04/25/15,04/28/15,"Lukefort, AL 44063",434.27
+fffe3900350033003500,Pauline Crosby,0.53,42.0,20.0,5948486.0,Stone,13352.03,49.39,No,Yes,Yes,Roadways,No,Wealthy,No,11/23/16,11/19/16,"Hartburgh, MD 41975",143362.22
+fffe3700380033003400,Elisa Joseph,0.16,14.0,8.0,451.0,Aluminium,5.1,13.99,No,No,No,Airways,No,Working Class,No,02/04/17,02/01/17,"Danielleland, ID 19632",134.1
+fffe3900390033003800,Louis Hayes,0.71,30.0,12.0,921600.0,Stone,4774.67,77.07,No,No,Yes,Roadways,No,Working Class,No,06/01/15,05/30/15,FPO AA 34181,36709.38
+fffe3800310030003600,Susan Wichmann,0.23,40.0,11.0,2128.0,Clay,6.79,20.18,No,No,No,Airways,Yes,Working Class,Yes,04/06/16,04/06/16,"New Cindymouth, WY 02665",241.34
+fffe3800390030003600,Kenneth Mccoy,0.23,19.0,7.0,259.0,Wood,4.42,22.78,No,No,No,Roadways,No,Wealthy,No,04/27/18,04/25/18,"New Cassie, AL 83129",188.23
+fffe3800300033003500,Orlando Bergeron,0.96,28.0,11.0,437435.0,Marble,864.8,56.54,Yes,No,No,Waterways,No,Working Class,No,11/07/17,11/07/17,"South Daniel, WI 54672",-133988.47
+fffe3800340033003700,Stephen Victorine,0.43,33.0,10.0,2079.0,Clay,3.51,22.75,No,Yes,No,Airways,Yes,Wealthy,No,06/16/17,06/17/17,"Lisaside, VT 45077",384.33
+fffe3700390036003400,Crystal Glass,0.79,37.0,15.0,395.0,Wood,5.22,17.55,No,Yes,Yes,Roadways,No,Working Class,No,11/08/15,11/12/15,"Adamburgh, DC 11338",686.32
+fffe3900320031003400,Thomas Nairn,0.77,31.0,15.0,25100.0,Brass,143.51,90.36,No,No,No,Roadways,No,Working Class,No,01/26/17,01/22/17,"Lake Kellyfort, CT 74089",2817.83
+fffe3300320033003500,Patricia Clark,0.29,9.0,5.0,104.0,Wood,3.66,14.06,No,No,No,Roadways,No,Wealthy,No,07/05/15,07/07/15,"New Katrinashire, MT 81266",125.24
+fffe3900390037003000,Carmen Bird,0.76,26.0,10.0,12172.0,Bronze,53.37,87.65,No,No,Yes,Airways,No,Working Class,No,12/16/15,12/20/15,"East Christophertown, NM 51805",2427.98
+fffe3700350031003200,Stella Canfield,0.24,3.0,2.0,10.0,Brass,6.11,15.7,No,No,Yes,Waterways,No,Wealthy,No,06/07/18,06/11/18,"East Hollyborough, MA 41978",156.04
+fffe3800320031003100,David Delacruz,0.82,4.0,3.0,41.0,Aluminium,4.54,13.28,Yes,No,No,Waterways,No,Working Class,No,06/22/17,06/23/17,DPO AA 43727,-185.59
+fffe3800340034003100,John Whittington,0.03,19.0,6.0,916.0,Clay,3.02,11.85,No,No,No,Roadways,Yes,Working Class,No,03/31/15,03/28/15,"Whiteside, NH 79225",121.36
+fffe3900310037003600,Juan Mcconkey,0.96,28.0,19.0,62334.0,Brass,820.24,77.12,Yes,No,No,Roadways,No,Working Class,No,05/27/19,05/25/19,"Wattsside, NJ 22274",-162573.71
+fffe3600380038003100,Eric Maisano,0.19,19.0,6.0,4979.0,Brass,16.8,19.51,Yes,Yes,No,Airways,No,Wealthy,No,10/23/18,10/21/18,"East Ronaldland, WY 53664",297.55
+fffe3900330033003600,Irene Rankin,0.55,11.0,6.0,24742.0,Stone,118.49,47.2,Yes,No,No,Waterways,No,Working Class,No,11/21/17,11/17/17,"Lake Miguelhaven, AL 17281",760.32
+fffe3700340033003900,Joann Johnson,0.29,22.0,6.0,4947.0,Brass,6.41,12.54,No,No,No,Roadways,No,Working Class,No,02/14/15,02/13/15,"Lake Joshuafurt, AZ 56871",197.84
+fffe3900380031003600,Laverne Russo,0.94,34.0,13.0,3657.0,Aluminium,17.67,17.67,Yes,No,Yes,Airways,No,Working Class,No,01/21/16,01/18/16,"North Grantborough, CO 78375",1194.11
+fffe3700370035003100,Barbara Erickson,0.75,27.0,12.0,923.0,Aluminium,9.48,10.88,No,No,Yes,Waterways,No,Working Class,No,05/26/15,05/25/15,"Harrellfurt, OK 78636",1290.56
+fffe3900380037003900,Arthur Vernon,0.21,29.0,12.0,2311.0,Clay,5.64,17.94,Yes,Yes,Yes,Airways,Yes,Wealthy,No,05/17/15,05/15/15,"Schneiderhaven, NJ 45440",337.95
+fffe3900310035003500,Sadie Lyon,0.55,3.0,3.0,70.0,Brass,4.2,11.14,No,Yes,Yes,Airways,No,Wealthy,No,12/23/15,12/20/15,"Woodsmouth, WY 99528",201.16
+fffe3600350032003700,Anthony Henderson,0.78,50.0,19.0,1878.0,Wood,14.46,14.38,Yes,No,No,Waterways,No,Wealthy,No,10/05/17,10/07/17,"North Derrick, AZ 99633",594.33
+fffe3800370032003700,Dina Walker,0.39,26.0,16.0,2439.0,Aluminium,3.85,18.79,Yes,No,No,Waterways,No,Working Class,No,03/03/15,03/03/15,"Rojasside, CA 67997",224.0
+fffe3700320031003000,Paula Hilliard,0.23,3.0,3.0,55.0,Brass,4.78,13.11,Yes,No,No,Waterways,No,Working Class,No,03/19/15,03/22/15,"Suarezchester, WA 76188",132.09
+fffe3700370035003900,Ronald Sotelo,0.61,18.0,7.0,89138.0,Marble,319.17,55.79,No,No,No,Airways,No,Wealthy,No,10/17/16,10/16/16,"West Rachelburgh, OH 69928",2304.56
+fffe3900300037003700,Dale Calais,0.07,17.0,8.0,5220.0,Bronze,6.46,44.66,Yes,Yes,No,Airways,No,Working Class,No,10/19/18,10/18/18,"West Mark, DE 35978",302.3
+fffe3800360034003200,George Hairfield,0.8,35.0,20.0,9890.0,Clay,52.99,48.77,No,Yes,No,Airways,Yes,Wealthy,Yes,11/19/17,11/22/17,"Burkestad, AK 77010",3287.48
+fffe3500360035003400,Patrick Walsh,0.57,25.0,6.0,2862.0,Bronze,8.18,14.29,No,No,No,Roadways,No,Working Class,No,09/15/15,09/16/15,"New Isaacfort, AZ 93472",388.61
+fffe3200320030003700,John Cooper,0.8,33.0,17.0,1142570.0,Marble,1751.41,86.49,No,Yes,No,Airways,No,Working Class,No,05/08/15,05/04/15,"Allenfort, SC 01895",13630.9
+fffe3600380038003300,Hazel Nikolic,0.45,21.0,10.0,159037.0,Marble,271.39,97.46,No,No,No,Roadways,No,Wealthy,Yes,07/01/17,07/01/17,"Fordfurt, IL 88547",1737.95
+fffe3900340038003700,Elsa Colon,0.05,26.0,10.0,12838.0,Bronze,37.52,86.35,Yes,No,Yes,Waterways,No,Wealthy,No,09/13/16,09/14/16,"Millerchester, AL 84634",508.31
+fffe3600360032003600,Caroline Hernandez,0.1,18.0,7.0,2816.0,Bronze,6.26,19.69,No,Yes,Yes,Roadways,No,Working Class,No,01/30/16,01/30/16,"Richardbury, HI 90684",195.87
+fffe3900320033003500,Ricardo Mays,0.06,31.0,11.0,349796.0,Marble,1003.69,45.79,No,No,Yes,Waterways,No,Working Class,Yes,01/30/16,02/02/16,"East Caitlin, WA 72640",1574.98
+fffe3700320038003000,Gillian Mcintyre,0.83,29.0,11.0,18147.0,Bronze,109.48,57.21,No,No,No,Roadways,No,Working Class,No,01/07/17,01/11/17,"South James, MA 20034",1610.91
+fffe3900370033003200,Sandra Combs,0.34,11.0,7.0,291.0,Aluminium,3.41,12.65,No,No,No,Airways,No,Working Class,Yes,02/23/16,02/25/16,"Scottberg, OR 82500",133.61
+fffe3700390030003100,Mary Cates,0.37,27.0,12.0,3623.0,Clay,10.51,10.68,No,No,Yes,Roadways,Yes,Working Class,No,09/30/15,10/04/15,"Port Jessicaberg, MN 03476",219.47
+fffe3500310032003300,Catherine Markham,0.27,15.0,8.0,132045.0,Stone,436.91,84.82,Yes,No,No,Airways,No,Working Class,Yes,08/26/15,08/26/15,"Zacharymouth, TX 97929",2106.9
+fffe3700300036003300,Thomas Coons,0.48,33.0,10.0,1712984.0,Stone,9162.25,40.87,No,No,Yes,Roadways,No,Working Class,No,08/26/19,08/29/19,"Langhaven, IA 07381",180775.14
+fffe3500380039003600,Van Roach,0.44,26.0,17.0,1041420.0,Stone,2108.24,98.88,Yes,No,No,Waterways,No,Working Class,No,09/03/16,09/02/16,"New Katelyn, NE 23163",5654.74
+fffe3900340034003500,Tanya Hibbard,0.01,12.0,7.0,1996.0,Bronze,3.19,19.54,No,No,Yes,Roadways,No,Working Class,No,07/18/17,07/18/17,"South Aaron, NC 23611",156.19
+fffe3900390031003800,Richard Alaniz,0.33,48.0,13.0,2065.0,Aluminium,9.6,24.31,No,No,Yes,Roadways,No,Wealthy,No,11/09/16,11/10/16,FPO AP 53103,393.47
+fffe3700330039003700,George Bates,0.45,3.0,2.0,13.0,Clay,3.02,22.39,Yes,No,No,Roadways,Yes,Working Class,No,11/13/17,11/14/17,"Randyview, NM 32872",-190.7
+fffe3700300031003000,Helen Wilson,0.69,58.0,16.0,8186224.0,Marble,21707.94,43.33,No,No,Yes,Roadways,Yes,Working Class,No,11/08/17,11/12/17,"Aliciaside, WI 63231",94967.69
+fffe3900320031003700,Denise Evans,0.56,28.0,10.0,17479.0,Brass,64.67,37.59,Yes,No,No,Waterways,No,Working Class,Yes,05/28/18,06/01/18,"Richardsontown, GA 16592",1099.94
+fffe3100340034003700,Jose Riley,0.85,17.0,7.0,234.0,Wood,4.6,12.19,No,No,Yes,Roadways,No,Wealthy,No,05/12/17,05/14/17,"Elizabethborough, GA 05793",363.51
+fffe310039003800,Daniel Schlau,0.78,24.0,7.0,591.0,Aluminium,4.33,10.26,No,No,No,Roadways,No,Working Class,No,04/07/19,04/04/19,"Port Chrischester, NH 38413",297.34
+fffe320039003800,Dennis Rossetti,0.18,15.0,6.0,477.0,Clay,6.35,15.4,Yes,No,No,Airways,Yes,Working Class,Yes,07/02/16,06/29/16,"West Raymondbury, CO 71098",-189.24
+fffe3900360031003600,Susan Strong,0.72,25.0,13.0,1829.0,Aluminium,5.93,13.34,No,No,No,Roadways,No,Working Class,No,02/06/16,02/08/16,"East Cindy, OK 43263",348.27
+fffe3900310038003600,Anna Brown,0.04,19.0,10.0,2857.0,Clay,7.81,22.81,Yes,Yes,Yes,Airways,Yes,Wealthy,No,11/30/17,11/28/17,"Gonzalesville, NE 10669",274.88
+fffe3400360030003000,Kerrie Reilly,0.05,25.0,10.0,11529.0,Brass,16.79,37.46,No,No,No,Roadways,No,Working Class,No,03/13/15,03/13/15,"Josephview, DC 82205",247.15
+fffe3200300037003700,Bryan Hickerson,0.19,19.0,9.0,6441.0,Brass,5.47,74.98,No,Yes,No,Airways,No,Working Class,Yes,05/27/16,05/26/16,"East Teresa, FL 68330",512.85
+fffe3700390033003200,Gilbert Monti,0.72,57.0,19.0,9502360.0,Marble,33271.54,87.68,No,No,No,Waterways,Yes,Working Class,No,10/19/18,10/15/18,"Watsonfort, PA 49993",167256.28
+fffe3600370035003600,Tessie Graham,0.48,9.0,5.0,63.0,Wood,5.13,20.07,No,No,No,Roadways,No,Working Class,No,03/02/15,03/01/15,"Millertown, KS 97251",201.98
+fffe3300370030003200,Naomi Matthew,0.86,13.0,6.0,14856.0,Marble,64.28,82.15,Yes,No,Yes,Waterways,No,Working Class,No,03/15/15,03/18/15,FPO AP 65705,3247.5
+fffe3800360031003800,Wendy Adens,0.31,14.0,8.0,232.0,Wood,4.89,15.19,Yes,No,Yes,Waterways,No,Working Class,No,04/15/17,04/11/17,"Latoyafort, AL 27517",178.91
+fffe3300300038003800,David Angle,0.19,37.0,18.0,62557.0,Bronze,41.69,86.14,No,No,Yes,Waterways,No,Working Class,No,09/25/17,09/27/17,"East Matthewside, WA 31179",686.35
+fffe3100360033003500,Andrew Kappler,0.21,32.0,16.0,531.0,Wood,5.38,17.42,Yes,No,Yes,Airways,No,Wealthy,No,01/21/16,01/17/16,"Fuentesfurt, VA 59787",236.12
+fffe3700310038003300,Jane Bushey,0.24,12.0,7.0,859.0,Clay,3.82,19.7,Yes,No,No,Roadways,Yes,Working Class,Yes,11/12/18,11/10/18,"Tinatown, NY 11918",225.56
+fffe3700340037003800,Marvin Dunham,0.84,34.0,8.0,309.0,Wood,5.23,11.18,Yes,No,Yes,Roadways,No,Working Class,Yes,06/09/17,06/06/17,"New Jenniferfurt, NC 57037",709.51
+fffe3400330033003400,Joe Diver,0.54,26.0,12.0,4427.0,Clay,11.84,16.24,No,No,Yes,Roadways,Yes,Wealthy,No,06/16/15,06/17/15,"New Joseph, VA 13033",390.31
+fffe3900370036003600,Edna Castle,0.31,3.0,3.0,303.0,Stone,6.46,13.44,Yes,No,No,Airways,No,Working Class,Yes,07/16/15,07/14/15,"Lake Timothyberg, PA 85003",247.91
+fffe3900350036003700,Jeremy Haar,0.48,15.0,6.0,3357.0,Brass,10.93,10.91,Yes,Yes,No,Airways,No,Working Class,No,03/18/19,03/16/19,"East Alicia, RI 64915",304.44
+fffe3100330039003200,Grace Woodward,0.22,23.0,9.0,136565.0,Marble,749.41,79.23,No,No,No,Roadways,No,Working Class,No,09/04/16,09/05/16,"Pricefurt, MS 51251",2535.89
+fffe3700350030003200,James Weigel,0.82,19.0,10.0,11733.0,Brass,27.42,41.72,No,No,Yes,Waterways,No,Wealthy,Yes,08/29/16,08/27/16,"South Scott, OK 01700",1329.57
+fffe3900320035003200,Latisha Dennis,0.1,24.0,11.0,872255.0,Stone,2801.6,99.56,Yes,No,No,Waterways,No,Working Class,No,05/30/18,06/03/18,"Lake Miguelmouth, NY 61887",2883.96
