@@ -52,6 +52,7 @@ onehot_columns:
   - Fragile
   - Customer Information
   - Remote Location
+  - International
 
 #drop_columns:
 #  - Customer Id
@@ -59,8 +60,5 @@ onehot_columns:
 #  - Customer Location
 #  - Scheduled Date
 #  - Delivery Date
-
-binary_columns:
-  - International
 
 target_columns: Cost

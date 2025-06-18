@@ -1,0 +1,108 @@
+{
+    "metrics": [
+        {
+            "id": "15e89f895b482f9b84ba7274ed18a106",
+            "metric_id": "DriftedColumnsCount(drift_share=0.5)",
+            "value": {
+                "count": 7.0,
+                "share": 0.3684210526315789
+            }
+        },
+        {
+            "id": "552db90c39bc5f9abc7bb18b92229333",
+            "metric_id": "ValueDrift(column=Artist Reputation)",
+            "value": 0.03735210742143582
+        },
+        {
+            "id": "2e631ad3a51430fe8d84281ecfe91e0e",
+            "metric_id": "ValueDrift(column=Height)",
+            "value": 0.06757578555460234
+        },
+        {
+            "id": "f183023666c903cd00cb2e9386d9d237",
+            "metric_id": "ValueDrift(column=Width)",
+            "value": 0.05007416241483569
+        },
+        {
+            "id": "336b65c74bdc048f9bab69e05c8de29c",
+            "metric_id": "ValueDrift(column=Weight)",
+            "value": 0.12741653670144445
+        },
+        {
+            "id": "9dcfa69a696af75f7e76e47cfc16bbcd",
+            "metric_id": "ValueDrift(column=Price Of Sculpture)",
+            "value": 0.11360836568411975
+        },
+        {
+            "id": "785da3f5b26df55e2aa7d62640c63a34",
+            "metric_id": "ValueDrift(column=Base Shipping Price)",
+            "value": 0.03231336764927103
+        },
+        {
+            "id": "e66cb201b39bba339285836ee1eb3963",
+            "metric_id": "ValueDrift(column=Customer Id)",
+            "value": 0.8325546111576978
+        },
+        {
+            "id": "f2fa871f0a40cc25688f47d082ce954d",
+            "metric_id": "ValueDrift(column=Artist Name)",
+            "value": 0.8322752757628816
+        },
+        {
+            "id": "1d2aa287ed7e8628671c225aeedbacba",
+            "metric_id": "ValueDrift(column=Material)",
+            "value": 0.030064884653703175
+        },
+        {
+            "id": "55431ef2e49e995476ab8972993df7b5",
+            "metric_id": "ValueDrift(column=International)",
+            "value": 0.0027822997594974296
+        },
+        {
+            "id": "8a2dd14ccc954953db3a61b67092a9b1",
+            "metric_id": "ValueDrift(column=Express Shipment)",
+            "value": 0.001956762731622298
+        },
+        {
+            "id": "7927a81fe2c566627316a59683a6562e",
+            "metric_id": "ValueDrift(column=Installation Included)",
+            "value": 0.016965646110465877
+        },
+        {
+            "id": "36b42b915a152f643549bfb32d9ded1c",
+            "metric_id": "ValueDrift(column=Transport)",
+            "value": 0.006864426713778073
+        },
+        {
+            "id": "f3a694bc88decaef0ec4072b9d68c8f7",
+            "metric_id": "ValueDrift(column=Fragile)",
+            "value": 0.0080250511967337
+        },
+        {
+            "id": "7ad1f0197e45f05106f678f9aaa4ad4e",
+            "metric_id": "ValueDrift(column=Customer Information)",
+            "value": 0.015177627707569835
+        },
+        {
+            "id": "1936581468f82afebf05cf91e89593ee",
+            "metric_id": "ValueDrift(column=Remote Location)",
+            "value": 0.010513781885929288
+        },
+        {
+            "id": "f0c0e8c6a8e67b269bc1a28ce2281825",
+            "metric_id": "ValueDrift(column=Scheduled Date)",
+            "value": 0.6106468806432508
+        },
+        {
+            "id": "7b31897fa79e3b60788ff3e642a9db3e",
+            "metric_id": "ValueDrift(column=Delivery Date)",
+            "value": 0.6076978357945154
+        },
+        {
+            "id": "90528c627161561f6e549e367abb8d9b",
+            "metric_id": "ValueDrift(column=Customer Location)",
+            "value": 0.8325546111576978
+        }
+    ],
+    "tests": []
+}

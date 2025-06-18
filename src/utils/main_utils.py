@@ -32,3 +32,26 @@ class MainUtils:
             yaml.dump(data,stream)
         except Exception as e:
             raise CustomException(e,sys) from e
+        
+    def save_numpy_array_data(self,file_path:str,array:np.array):
+        logging.info("Entered the save_numpy_array_data method of MainUtils class")
+        try:
+            with open(file_path,"wb")as file_obj:
+                np.save(file_obj,array)
+                logging.info("Exited the save_numpy_array_data method of MainUtils class")
+                return file_path
+        except Exception as e:
+            raise CustomException(e,sys) from e
+        
+    @staticmethod
+    def save_object(file_path:str,obj:object)->None:
+        logging.info("Entered the save_object method of MainUtils class")
+        try:
+            with open(file_path,"wb") as file_obj:
+                dill.dump(obj,file_obj)
+
+            logging.info("Exited the save_object method of MainUtils class")
+
+            return file_path
+        except Exception as e:
+            raise CustomException(e,sys) from e
