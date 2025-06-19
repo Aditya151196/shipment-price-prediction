@@ -52,13 +52,12 @@ onehot_columns:
   - Fragile
   - Customer Information
   - Remote Location
-  - International
 
-#drop_columns:
-#  - Customer Id
-#  - Artist Name
-#  - Customer Location
-#  - Scheduled Date
-#  - Delivery Date
+drop_columns:
+  - Customer Id
+  - Artist Name
+  - Customer Location
+  - Scheduled Date
+  - Delivery Date
 
 target_columns: Cost

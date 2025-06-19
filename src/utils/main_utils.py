@@ -17,7 +17,7 @@ from src.logger import logging
 
 class MainUtils:
     def read_yaml_file(self,filename:str)->dict:
-        logging.info("Entered the write_json_to_yaml_file method of MainUtils class")
+        logging.info("Entered the read_yaml_file method of MainUtils class")
         try:
             with open(filename,"rb") as yaml_file:
                 return yaml.safe_load(yaml_file)
@@ -36,10 +36,10 @@ class MainUtils:
     def save_numpy_array_data(self,file_path:str,array:np.array):
         logging.info("Entered the save_numpy_array_data method of MainUtils class")
         try:
-            with open(file_path,"wb")as file_obj:
+            with open(file_path,"wb") as file_obj:
                 np.save(file_obj,array)
-                logging.info("Exited the save_numpy_array_data method of MainUtils class")
-                return file_path
+            logging.info("Exited the save_numpy_array_data method of MainUtils class")
+            return file_path
         except Exception as e:
             raise CustomException(e,sys) from e
         

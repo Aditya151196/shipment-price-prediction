@@ -92,7 +92,7 @@ class DataTransformation:
 
             # Capping the outliers
             df.loc[(df[col] > upper_limit),col] = upper_limit
-            df.loc[(df[col] > lower_limit),col] = lower_limit
+            df.loc[(df[col] < lower_limit),col] = lower_limit
 
             logging.info(
                 f"Performed _outlier_capping method of Data_Transformation class for {col} column"
@@ -164,6 +164,11 @@ class DataTransformation:
             )
             target_feature_test_df=self.test_set[target_column_name]
             logging.info("Retrieved input and target test feature")
+
+            #
+            DROP_COLUMNS=self.data_transformation_config.SCHEMA_CONFIG["drop_columns"]
+            input_feature_train_df=input_feature_train_df.drop(columns=DROP_COLUMNS,errors="ignore")
+            input_feature_test_df=input_feature_test_df.drop(columns=DROP_COLUMNS,errors="ignore")
 
             # Applying preprocessing object on training dataframe and testing dataframe
             input_feature_train_arr=preprocessor.fit_transform(input_feature_train_df)
