@@ -6,6 +6,7 @@ from from_root.root import from_root
 TIMESTAMP: str=datetime.now().strftime("%m_%d_Y_%H_%M_%S")
 
 SCHEMA_FILE_PATH="config/schema.yaml"
+MODEL_CONFIG_FILE = "config/model.yaml"
 
 MONGODB_URL=os.getenv("MONGODB_URL")
 
@@ -33,3 +34,8 @@ TRANSFORMED_TEST_DATA_DIR="TransformedTest"
 TRANSFORMED_TRAIN_DATA_FILE_NAME="transformed_train_data.npz"
 TRANSFORMED_TEST_DATA_FILE_NAME="transformed_test_data.npz"
 PREPROCESSOR_OBJECT_FILE_NAME="shipping_preprocessor.pkl"
+
+# Model Trainer
+MODEL_TRAINER_ARTIFACTS_DIR="ModelTrainerArtifacts"
+MODEL_FILE_NAME="shipping_price_model.pkl"
+MODEL_SAVE_FORMAT=".pkl"
